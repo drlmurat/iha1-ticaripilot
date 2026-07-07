@@ -1,0 +1,332 @@
+[
+    {
+        "question":  "Havada hareket edebilen ve uçabilen, motorlu veya motoru olmayan herhangi bir taşıta ne ad verilir?",
+        "choices":  [
+                        "İnsansız hava aracı",
+                        "Hava aracı",
+                        "Sabit kanat",
+                        "Faydalı yük"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Aşağıdakilerden hangisi, motoru olmayan ve genellikle bir uçaktan çekilerek havalanan, hava akımlarını kullanarak uzun süre havada kalabilen hava aracıdır?",
+        "choices":  [
+                        "Helikopter",
+                        "Kargo uçağı",
+                        "Planör",
+                        "Drone"
+                    ],
+        "correct":  2,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "1783 yılında ilk sıcak hava balonunu uçurarak havacılığın temelini atan kişiler aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Montgolfier kardeşler",
+                        "Wright kardeşler",
+                        "Otto Lilienthal",
+                        "Prof. Low"
+                    ],
+        "correct":  0,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "1903 yılında “Flyer” adlı uçakla insanlı motorlu havacılığın ilk başarılı uçuşunu gerçekleştirenler aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Montgolfier kardeşler",
+                        "Otto Lilienthal",
+                        "Jacques-Étienne Montgolfier",
+                        "Wright kardeşler"
+                    ],
+        "correct":  3,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Aerodinamik kuvvet aracılığı ile sürekli uçuş yapma yeteneğinde olan, üzerinde pilot bulunmaksızın uzaktan kontrol edilerek veya otonom operasyon ile uçurulan hava aracına ne ad verilir?",
+        "choices":  [
+                        "Planör",
+                        "İnsansız hava aracı",
+                        "Genel havacılık uçağı",
+                        "Helikopter"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Tarihte bilinen ilk İHA kullanımı aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "1903 yılında ABD\u0027de yapılan ilk motorlu uçuş",
+                        "1935 yılında geliştirilen ilk ölçekli kumandalı uçak",
+                        "1849 yılında Avusturya\u0027nın Venedik üzerine gönderdiği mühimmat yüklü balonlar",
+                        "1950\u0027lerde ABD\u0027nin test ettiği Firebee"
+                    ],
+        "correct":  2,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Tarihte İHA\u0027lara ilk kez radyo kontrol sistemlerinin entegrasyonunu yapan kişi aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Prof. Low",
+                        "Otto Lilienthal",
+                        "Wright kardeşler",
+                        "Montgolfier kardeşler"
+                    ],
+        "correct":  0,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "İHA\u0027lar genel olarak üç farklı temel prensipte toplanır. Aşağıdakilerden hangisi bu üçlüyü doğru olarak verir?",
+        "choices":  [
+                        "Yolcu uçakları, kargo uçakları, askeri uçaklar",
+                        "Balon, planör, paraşüt",
+                        "Kamera dronları, kargo dronları, gözetleme dronları",
+                        "Sabit kanatlı, döner kanatlı ve VTOL hava araçları"
+                    ],
+        "correct":  3,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Taşıyıcı yüzeyi gövdeye en az iki yerden sabitlenmiş ve hareketli kumanda yüzeyleri ile üç eksende kumanda edilebilen hava araçlarına ne ad verilir?",
+        "choices":  [
+                        "Döner kanatlı hava aracı",
+                        "Sabit kanatlı hava aracı",
+                        "VTOL",
+                        "Multikopter"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Sabit kanatlı hava araçlarında yapının, teçhizat hariç altı bölümden oluştuğu kabul edilir. Aşağıdakilerden hangisi bu altı bölümden biri değildir?",
+        "choices":  [
+                        "Faydalı yük",
+                        "Kanat",
+                        "Kuyruk takımı",
+                        "İniş takımları"
+                    ],
+        "correct":  0,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Aşağıdakilerden hangisi kanatların görevlerinden biri değildir?",
+        "choices":  [
+                        "Uçuş kontrol yüzeylerinin bağlanması",
+                        "Motorların bağlanması",
+                        "Yakıt depolanması",
+                        "Kokpiti ihtiva etmesi"
+                    ],
+        "correct":  3,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Kuyruk takımında bulunan istikamet dümeni (rudder) ve irtifa dümeni (elevator) hangi eksen hareketlerini sağlar?",
+        "choices":  [
+                        "Roll ve pitch",
+                        "Roll ve yaw",
+                        "Yaw ve pitch",
+                        "Pitch ve hover"
+                    ],
+        "correct":  2,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Motorun uçaktaki ana fonksiyonu uçağa gereken hareketi sağlamaktır. Aşağıdakilerden hangisi motorun uçaktaki diğer fonksiyonlarından biri değildir?",
+        "choices":  [
+                        "Elektrik gücü sağlamak",
+                        "Hidrolik gücü sağlamak",
+                        "Pnömatik gücü sağlamak",
+                        "Yakıt depolamak"
+                    ],
+        "correct":  3,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Döner kanatlı hava araçlarında kaldırma kuvveti aşağıdakilerden hangisi ile sağlanır?",
+        "choices":  [
+                        "Pervaneler",
+                        "Sabit kanatlar",
+                        "Kuyruk konisi",
+                        "İniş takımları"
+                    ],
+        "correct":  0,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "İniş için büyük bir alana ihtiyaç duymayan ve en zor arazi şartlarında bile arama-kurtarma amacıyla kullanılabilen helikopterin dezavantajı aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Dikeyde kalkış yapamaması",
+                        "Manevra kabiliyetinin düşük olması",
+                        "Yüksek irtifada ve yüksek hızda uçamaması",
+                        "Sadece askeri amaçlarla kullanılabilmesi"
+                    ],
+        "correct":  2,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Helikopterlerde kuyruk rotorunun temel görevi aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Kaldırma kuvvetini artırmak",
+                        "Ana rotordan kaynaklanan torku dengelemek",
+                        "Yakıt tüketimini azaltmak",
+                        "İniş takımlarını korumak"
+                    ],
+        "correct":  1,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Dikeyde iniş-kalkış yapabilen ve yatayda uçak gibi uçabilen, sabit kanat ile döner kanadın avantajlarını birleştiren hava araçlarına ne ad verilir?",
+        "choices":  [
+                        "VTOL",
+                        "Planör",
+                        "Zeplin",
+                        "Multikopter"
+                    ],
+        "correct":  0,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Aşağıdakilerden hangisi jet motorlu VTOL hava araçlarının en bilinen modellerinden biridir?",
+        "choices":  [
+                        "Cessna 172",
+                        "Boeing 737",
+                        "F-35B",
+                        "DJI Mavic"
+                    ],
+        "correct":  2,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Faydalı yük dahil 6 kg ağırlığında, 4 kollu bir drone tasarımında her bir motorun sağlaması gereken kaldırma (thrust) kuvveti en az kaç kg olmalıdır?",
+        "choices":  [
+                        "1 kg",
+                        "1,5 kg",
+                        "2 kg",
+                        "6 kg"
+                    ],
+        "correct":  1,
+        "difficulty":  "zor"
+    },
+    {
+        "question":  "Pervaneleri tanımlayan iki temel değer aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Motor gücü ve batarya kapasitesi",
+                        "Kanat açıklığı ve gövde uzunluğu",
+                        "Ağırlık ve menzil",
+                        "Pervane çapı ve hatve açısı"
+                    ],
+        "correct":  3,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Dört kollu döner kanatlı bir İHA\u0027da motorların ikisinin saat yönünde (CW), diğer ikisinin saat yönünün tersine (CCW) dönmesinin temel nedeni aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Dönme sonucu oluşan momentumu dengeleyerek gövdenin kendi etrafında dönmesini engellemek",
+                        "Batarya tüketimini azaltmak",
+                        "Pervane çapını küçültmek",
+                        "Uçuş hızını artırmak"
+                    ],
+        "correct":  0,
+        "difficulty":  "zor"
+    },
+    {
+        "question":  "Aşağıdakilerden hangisi İHA sisteminin temel bileşenlerinden biri değildir?",
+        "choices":  [
+                        "Hava aracı",
+                        "Yer kontrol istasyonu",
+                        "Hava trafik kontrol kulesi",
+                        "Faydalı yük"
+                    ],
+        "correct":  2,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Hava aracının uçuş prensibine doğrudan etki etmeyen ancak son kalkış ağırlığına etki eden ve kullanım amacına göre değişen bileşen aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Güç grubu",
+                        "Faydalı yük",
+                        "Kuyruk takımı",
+                        "Uçuş kontrol yüzeyleri"
+                    ],
+        "correct":  1,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Hava aracını yönetmek, görevini ifa etmesini sağlamak, izlemek ve hava aracına otonom proje yüklemek için kullanılan ekipmanlara ne ad verilir?",
+        "choices":  [
+                        "Transponder",
+                        "Veri kayıt cihazı",
+                        "Faydalı yük",
+                        "Yer kontrol istasyonu"
+                    ],
+        "correct":  3,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Aşağıdakilerden hangisi İHA sistemlerinin insanlı hava araçlarına kıyasla avantajlarından biri değildir?",
+        "choices":  [
+                        "Tehlikeli görevlerde insan riskini azaltması",
+                        "Kötü hava koşullarına duyarlı olması",
+                        "Maliyet etkinliği sağlaması",
+                        "Hızlı ve etkili veri toplaması"
+                    ],
+        "correct":  1,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Ülkemizdeki sivil İHA sınıflandırmasına göre İHA1 sınıfının azami kalkış ağırlığı aralığı aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "500 gr – 4 kg",
+                        "25 kg – 150 kg",
+                        "4 kg – 25 kg",
+                        "150 kg ve üzeri"
+                    ],
+        "correct":  2,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Askeri İHA sınıflandırmasına göre Global Hawk ve Akıncı hangi sınıfta yer alır?",
+        "choices":  [
+                        "Çok Küçük İHA Sistemleri",
+                        "Hafif İHA Sistemleri",
+                        "Orta İHA Sistemleri",
+                        "Ağır İHA Sistemleri"
+                    ],
+        "correct":  3,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "ICAO\u0027nun açılımı aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Uluslararası Hava Taşımacılığı Birliği",
+                        "Uluslararası Sivil Havacılık Örgütü",
+                        "Avrupa Sivil Havacılık Konferansı",
+                        "Sivil Havacılık Genel Müdürlüğü"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Transponder cihazına girilen “7700” kodu aşağıdakilerden hangisini ifade eder?",
+        "choices":  [
+                        "Uçakta acil durum var",
+                        "Telsiz arızası",
+                        "Uçak kaçırıldı",
+                        "Radar uyarısı"
+                    ],
+        "correct":  0,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Dünya üzerinde konum belirlemek için en az 3 uydu gerekirken, yükseklik dahil konum bilgisi elde edebilmek için en az kaç uydudan sinyal almak yeterlidir?",
+        "choices":  [
+                        "2",
+                        "3",
+                        "4",
+                        "6"
+                    ],
+        "correct":  2,
+        "difficulty":  "orta"
+    }
+]

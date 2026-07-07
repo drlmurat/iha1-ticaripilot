@@ -1,0 +1,31 @@
+soru;secenek_a;secenek_b;secenek_c;secenek_d;dogru_cevap;zorluk
+Havada hareket edebilen ve uçabilen, motorlu veya motoru olmayan herhangi bir taşıta ne ad verilir?;İnsansız hava aracı;Hava aracı;Sabit kanat;Faydalı yük;B;kolay
+Aşağıdakilerden hangisi, motoru olmayan ve genellikle bir uçaktan çekilerek havalanan, hava akımlarını kullanarak uzun süre havada kalabilen hava aracıdır?;Helikopter;Kargo uçağı;Planör;Drone;C;kolay
+1783 yılında ilk sıcak hava balonunu uçurarak havacılığın temelini atan kişiler aşağıdakilerden hangisidir?;Montgolfier kardeşler;Wright kardeşler;Otto Lilienthal;Prof. Low;A;kolay
+1903 yılında “Flyer” adlı uçakla insanlı motorlu havacılığın ilk başarılı uçuşunu gerçekleştirenler aşağıdakilerden hangisidir?;Montgolfier kardeşler;Otto Lilienthal;Jacques-Étienne Montgolfier;Wright kardeşler;D;kolay
+Aerodinamik kuvvet aracılığı ile sürekli uçuş yapma yeteneğinde olan, üzerinde pilot bulunmaksızın uzaktan kontrol edilerek veya otonom operasyon ile uçurulan hava aracına ne ad verilir?;Planör;İnsansız hava aracı;Genel havacılık uçağı;Helikopter;B;kolay
+Tarihte bilinen ilk İHA kullanımı aşağıdakilerden hangisidir?;1903 yılında ABD'de yapılan ilk motorlu uçuş;1935 yılında geliştirilen ilk ölçekli kumandalı uçak;1849 yılında Avusturya'nın Venedik üzerine gönderdiği mühimmat yüklü balonlar;1950'lerde ABD'nin test ettiği Firebee;C;orta
+Tarihte İHA'lara ilk kez radyo kontrol sistemlerinin entegrasyonunu yapan kişi aşağıdakilerden hangisidir?;Prof. Low;Otto Lilienthal;Wright kardeşler;Montgolfier kardeşler;A;kolay
+İHA'lar genel olarak üç farklı temel prensipte toplanır. Aşağıdakilerden hangisi bu üçlüyü doğru olarak verir?;Yolcu uçakları, kargo uçakları, askeri uçaklar;Balon, planör, paraşüt;Kamera dronları, kargo dronları, gözetleme dronları;Sabit kanatlı, döner kanatlı ve VTOL hava araçları;D;kolay
+Taşıyıcı yüzeyi gövdeye en az iki yerden sabitlenmiş ve hareketli kumanda yüzeyleri ile üç eksende kumanda edilebilen hava araçlarına ne ad verilir?;Döner kanatlı hava aracı;Sabit kanatlı hava aracı;VTOL;Multikopter;B;kolay
+Sabit kanatlı hava araçlarında yapının, teçhizat hariç altı bölümden oluştuğu kabul edilir. Aşağıdakilerden hangisi bu altı bölümden biri değildir?;Faydalı yük;Kanat;Kuyruk takımı;İniş takımları;A;kolay
+Aşağıdakilerden hangisi kanatların görevlerinden biri değildir?;Uçuş kontrol yüzeylerinin bağlanması;Motorların bağlanması;Yakıt depolanması;Kokpiti ihtiva etmesi;D;kolay
+Kuyruk takımında bulunan istikamet dümeni (rudder) ve irtifa dümeni (elevator) hangi eksen hareketlerini sağlar?;Roll ve pitch;Roll ve yaw;Yaw ve pitch;Pitch ve hover;C;orta
+Motorun uçaktaki ana fonksiyonu uçağa gereken hareketi sağlamaktır. Aşağıdakilerden hangisi motorun uçaktaki diğer fonksiyonlarından biri değildir?;Elektrik gücü sağlamak;Hidrolik gücü sağlamak;Pnömatik gücü sağlamak;Yakıt depolamak;D;kolay
+Döner kanatlı hava araçlarında kaldırma kuvveti aşağıdakilerden hangisi ile sağlanır?;Pervaneler;Sabit kanatlar;Kuyruk konisi;İniş takımları;A;kolay
+İniş için büyük bir alana ihtiyaç duymayan ve en zor arazi şartlarında bile arama-kurtarma amacıyla kullanılabilen helikopterin dezavantajı aşağıdakilerden hangisidir?;Dikeyde kalkış yapamaması;Manevra kabiliyetinin düşük olması;Yüksek irtifada ve yüksek hızda uçamaması;Sadece askeri amaçlarla kullanılabilmesi;C;orta
+Helikopterlerde kuyruk rotorunun temel görevi aşağıdakilerden hangisidir?;Kaldırma kuvvetini artırmak;Ana rotordan kaynaklanan torku dengelemek;Yakıt tüketimini azaltmak;İniş takımlarını korumak;B;orta
+Dikeyde iniş-kalkış yapabilen ve yatayda uçak gibi uçabilen, sabit kanat ile döner kanadın avantajlarını birleştiren hava araçlarına ne ad verilir?;VTOL;Planör;Zeplin;Multikopter;A;kolay
+Aşağıdakilerden hangisi jet motorlu VTOL hava araçlarının en bilinen modellerinden biridir?;Cessna 172;Boeing 737;F-35B;DJI Mavic;C;kolay
+Faydalı yük dahil 6 kg ağırlığında, 4 kollu bir drone tasarımında her bir motorun sağlaması gereken kaldırma (thrust) kuvveti en az kaç kg olmalıdır?;1 kg;1,5 kg;2 kg;6 kg;B;zor
+Pervaneleri tanımlayan iki temel değer aşağıdakilerden hangisidir?;Motor gücü ve batarya kapasitesi;Kanat açıklığı ve gövde uzunluğu;Ağırlık ve menzil;Pervane çapı ve hatve açısı;D;orta
+Dört kollu döner kanatlı bir İHA'da motorların ikisinin saat yönünde (CW), diğer ikisinin saat yönünün tersine (CCW) dönmesinin temel nedeni aşağıdakilerden hangisidir?;Dönme sonucu oluşan momentumu dengeleyerek gövdenin kendi etrafında dönmesini engellemek;Batarya tüketimini azaltmak;Pervane çapını küçültmek;Uçuş hızını artırmak;A;zor
+Aşağıdakilerden hangisi İHA sisteminin temel bileşenlerinden biri değildir?;Hava aracı;Yer kontrol istasyonu;Hava trafik kontrol kulesi;Faydalı yük;C;kolay
+Hava aracının uçuş prensibine doğrudan etki etmeyen ancak son kalkış ağırlığına etki eden ve kullanım amacına göre değişen bileşen aşağıdakilerden hangisidir?;Güç grubu;Faydalı yük;Kuyruk takımı;Uçuş kontrol yüzeyleri;B;orta
+Hava aracını yönetmek, görevini ifa etmesini sağlamak, izlemek ve hava aracına otonom proje yüklemek için kullanılan ekipmanlara ne ad verilir?;Transponder;Veri kayıt cihazı;Faydalı yük;Yer kontrol istasyonu;D;kolay
+Aşağıdakilerden hangisi İHA sistemlerinin insanlı hava araçlarına kıyasla avantajlarından biri değildir?;Tehlikeli görevlerde insan riskini azaltması;Kötü hava koşullarına duyarlı olması;Maliyet etkinliği sağlaması;Hızlı ve etkili veri toplaması;B;orta
+Ülkemizdeki sivil İHA sınıflandırmasına göre İHA1 sınıfının azami kalkış ağırlığı aralığı aşağıdakilerden hangisidir?;500 gr – 4 kg;25 kg – 150 kg;4 kg – 25 kg;150 kg ve üzeri;C;kolay
+Askeri İHA sınıflandırmasına göre Global Hawk ve Akıncı hangi sınıfta yer alır?;Çok Küçük İHA Sistemleri;Hafif İHA Sistemleri;Orta İHA Sistemleri;Ağır İHA Sistemleri;D;kolay
+ICAO'nun açılımı aşağıdakilerden hangisidir?;Uluslararası Hava Taşımacılığı Birliği;Uluslararası Sivil Havacılık Örgütü;Avrupa Sivil Havacılık Konferansı;Sivil Havacılık Genel Müdürlüğü;B;kolay
+Transponder cihazına girilen “7700” kodu aşağıdakilerden hangisini ifade eder?;Uçakta acil durum var;Telsiz arızası;Uçak kaçırıldı;Radar uyarısı;A;orta
+Dünya üzerinde konum belirlemek için en az 3 uydu gerekirken, yükseklik dahil konum bilgisi elde edebilmek için en az kaç uydudan sinyal almak yeterlidir?;2;3;4;6;C;orta
