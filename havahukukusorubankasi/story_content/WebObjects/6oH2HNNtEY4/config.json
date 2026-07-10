@@ -1,0 +1,21 @@
+{
+  "questionSource": "auto",
+  "useTimer": true,
+  "timerSeconds": 15,
+  "useTimeBonus": true,
+  "pointsRule": "difficultyBased",
+  "flatPointsPerQuestion": 20,
+  "easyPoints": 10,
+  "mediumPoints": 15,
+  "hardPoints": 20,
+  "veryHardPoints": 30,
+  "bronzePercent": 50,
+  "silverPercent": 80,
+  "goldPercent": 100,
+  "__comment_scorm": "LMS / SCORM 1.2 & 2004 Raporlama Ayarları",
+  "passingPercent": 70,
+  "reportScoreToLMS": true,
+  "__comment_firebase": "Ortak Liderlik Tablosu İçin Firebase RTDB REST Ayarları",
+  "useFirebase": true,
+  "firebaseURL": "https://storyline-leaderboard-cfbe1-default-rtdb.europe-west1.firebasedatabase.app"
+}

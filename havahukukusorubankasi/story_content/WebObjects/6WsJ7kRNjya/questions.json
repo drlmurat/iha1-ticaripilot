@@ -1,0 +1,332 @@
+[
+    {
+        "question":  "Hava seyrüseferleri ile ilgili işlemleri düzenlemek adına özel olarak konulmuş hukuk dalına ne ad verilir?",
+        "choices":  [
+                        "Deniz Hukuku",
+                        "Hava Hukuku",
+                        "Ticaret Hukuku",
+                        "Uzay Hukuku"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Bir devletin ulusal hava sahasının sınırı aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Kıta sahanlığının bittiği çizgi",
+                        "Ülkenin kara sınırları",
+                        "Karasularının bittiği çizgi",
+                        "Açık denizlerin başladığı çizgi"
+                    ],
+        "correct":  2,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "13 Ekim 1919 tarihinde 27 devlet tarafından imzalanan ve hava seyrüseferi ile ilgili uluslararası hukukun ilk çok taraflı dokümanı olan sözleşme aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Paris Sözleşmesi",
+                        "Madrid Sözleşmesi",
+                        "Chicago Sözleşmesi",
+                        "Iber-Amerikan Sözleşmesi"
+                    ],
+        "correct":  0,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Sivil havacılık hukukunun en önemli hukuki dayanağı olan ve hava sahalarının niteliği ile kabotaj konularında önemli düzenlemeler getiren sözleşme aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Paris Sözleşmesi",
+                        "Madrid Sözleşmesi",
+                        "Iber-Amerikan Sözleşmesi",
+                        "Chicago Sözleşmesi"
+                    ],
+        "correct":  3,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Aşağıdakilerden hangisi Chicago Sözleşmesi\u0027ne hakim olan uluslararası hukuk prensiplerinden biri değildir?",
+        "choices":  [
+                        "Hava sahasının tüm devletlerin ortak malı sayılması",
+                        "Her bir devletin kendi hava sahasında egemenliği",
+                        "Açık denizlerde uçuş serbestisi",
+                        "Taşıyıcı hava araçlarının uyrukluğu"
+                    ],
+        "correct":  0,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "IATA ile ICAO arasındaki temel fark aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+        "choices":  [
+                        "IATA ülkelerin havayolu yetkileriyle, ICAO havayolu şirketleriyle ilgilidir.",
+                        "Her iki kuruluş da yalnızca askeri havacılıkla ilgilenir.",
+                        "IATA havayolu şirketleriyle ilgiliyken, ICAO ülkelerin havayolu yetkileriyle ilgilidir.",
+                        "IATA ve ICAO arasında hiçbir işbirliği bulunmaz."
+                    ],
+        "correct":  2,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "ICAO\u0027ya üye olabilmenin koşulu aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "IATA üyesi olmak",
+                        "EASA üyesi olmak",
+                        "Avrupa Birliği üyesi olmak",
+                        "Birleşmiş Milletler\u0027e üye olmak"
+                    ],
+        "correct":  3,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Türkiye\u0027de sivil havacılık sektörünün düzenlenmesinden ve denetlenmesinden sorumlu; pilotlara ve diğer havacılık personeline lisans ve sertifika veren devlet kurumu aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "EASA",
+                        "Sivil Havacılık Genel Müdürlüğü (SHGM)",
+                        "IATA",
+                        "ICAO"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Aşağıdaki İHA ve sistemlerinden hangisi SHT-İHA Talimatı\u0027nın kapsamı dışındadır?",
+        "choices":  [
+                        "Azami kalkış ağırlığı 4 kg olan sivil İHA\u0027lar",
+                        "Azami kalkış ağırlığı 500 gr\u0027dan daha az olan İHA\u0027lar",
+                        "Türk Hava Sahasında ticari faaliyet yürüten İHA\u0027lar",
+                        "Azami kalkış ağırlığı 25 kg olan sivil İHA\u0027lar"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "SHT-İHA Talimatı\u0027na göre azami kalkış ağırlığı 4 kg (dâhil) ile 25 kg aralığında olan İHA\u0027lar hangi sınıfta yer alır?",
+        "choices":  [
+                        "İHA0",
+                        "İHA2",
+                        "İHA1",
+                        "İHA3"
+                    ],
+        "correct":  2,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "SHT-İHA Talimatı\u0027na göre İHA0 sınıfındaki İHA\u0027nın ekipman, sistem ve faydalı yük bileşenleriyle donatılması konusunda aşağıdakilerden hangisi doğrudur?",
+        "choices":  [
+                        "İHA işleticisinin/sahibinin/pilotunun ya da imalatçısının seçimine bağlıdır.",
+                        "Çakar lamba ve uçuş kayıt sistemi zorunludur.",
+                        "Genel Müdürlük tarafından her yıl belirlenir.",
+                        "Yalnızca üçüncü şahıs mali mesuliyet sigortası zorunludur."
+                    ],
+        "correct":  0,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Aşağıdakilerden hangisi İHA1 sınıfındaki bir İHA\u0027nın donatılmış olması gereken zorunlu teçhizat ve sistem bileşenlerinden biri değildir?",
+        "choices":  [
+                        "Komuta ve kontrol veri bağının kesilmesi durumunda acil durum iniş veya uçuş sonlandırma kabiliyeti",
+                        "Batarya gücü/yakıt seviyesinin devamlı izlenebilmesi",
+                        "Çakar lamba",
+                        "Paraşütlü kurtarma sistemi"
+                    ],
+        "correct":  3,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "İHA ve sistemlerinin bakım ve onarımlarının, üreticilerin yayımladığı el kitaplarına göre yapılmasından kim sorumludur?",
+        "choices":  [
+                        "Genel Müdürlük",
+                        "İHA pilotu",
+                        "İthalatçı firma",
+                        "Mülki idare amiri"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "SHT-İHA Talimatı\u0027na göre bakım ve onarım faaliyetleri kapsamında yapılan iş ve işlemler kaç yıl boyunca kayıt altında saklanır?",
+        "choices":  [
+                        "1 yıl",
+                        "2 yıl",
+                        "3 yıl",
+                        "5 yıl"
+                    ],
+        "correct":  2,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "SHT-İHA Talimatı\u0027na göre üçüncü şahıs mali mesuliyet sigortası yaptırılması zorunlu olan İHA\u0027lar aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+        "choices":  [
+                        "Yalnızca 150 kg üstü İHA\u0027lar",
+                        "Yalnızca devlet insansız hava araçları",
+                        "Yalnızca sportif amaçla kullanılan İHA\u0027lar",
+                        "25 kg üstü İHA\u0027lar ile ağırlığına bakılmaksızın ticari faaliyet gerçekleştiren İHA\u0027lar"
+                    ],
+        "correct":  3,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Ülkemizde üretimi yapılan her bir İHA\u0027nın Kayıt Sistemi\u0027ne kaydı ne zaman ve kim tarafından yapılır?",
+        "choices":  [
+                        "Üreticisi tarafından aynı gün içerisinde",
+                        "Satın alan kişi tarafından 3 gün içerisinde",
+                        "Genel Müdürlük tarafından 10 iş günü içerisinde",
+                        "İHA pilotu tarafından ilk uçuştan önce"
+                    ],
+        "correct":  0,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Yurtdışından bireysel olarak getirilen veya yurt içinde devir alınan bir İHA, en geç kaç gün içerisinde Kayıt Sistemi\u0027ne kayıt edilir?",
+        "choices":  [
+                        "Aynı gün",
+                        "3 gün",
+                        "5 gün",
+                        "10 gün"
+                    ],
+        "correct":  1,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "SHT-İHA Talimatı\u0027na göre İHA0 ve İHA1 uçuracak kişiler için lisans düzenlenmesi konusunda aşağıdakilerden hangisi doğrudur?",
+        "choices":  [
+                        "Genel Müdürlükçe 3 yıl süreli lisans düzenlenir.",
+                        "EASA tarafından lisans düzenlenir.",
+                        "Genel Müdürlükçe herhangi bir lisans düzenlenmez; ancak internet tabanlı Kayıt Sistemi\u0027ne kayıt olmak zorunludur.",
+                        "Yalnızca askeri makamlarca lisans düzenlenir."
+                    ],
+        "correct":  2,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "SHT-İHA Talimatı\u0027na göre İHA0 sınıfı pilotlar en az kaç yaşında olmalıdır?",
+        "choices":  [
+                        "12",
+                        "15",
+                        "18",
+                        "21"
+                    ],
+        "correct":  0,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "SHT-İHA Talimatı\u0027na göre İHA1 sınıfı pilotlar en az kaç yaşında olmalıdır?",
+        "choices":  [
+                        "12",
+                        "16",
+                        "18",
+                        "15"
+                    ],
+        "correct":  3,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "İHA0 ve İHA1 kategorisindeki hava araçlarını ticari amaçla kullanacak pilotların EK-3\u0027te yer alan eğitimleri tamamlamaları hâlinde yetkili eğitim kuruluşu tarafından düzenlenen belge aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "İHA2 Pilot Lisansı",
+                        "İnsansız Hava Aracı Ticari Pilot Sertifikası",
+                        "Sportif Havacılık Ruhsatı",
+                        "R/T Telsizle Haberleşme Sertifikası"
+                    ],
+        "correct":  1,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "18 yaşın altındaki İHA pilotlarının üçüncü şahıslara verdikleri zararlardan hukuki ve cezai sorumluluk kime aittir?",
+        "choices":  [
+                        "İHA üreticisine",
+                        "Genel Müdürlüğe",
+                        "Kanuni mümessiline",
+                        "Yetkili eğitim kuruluşuna"
+                    ],
+        "correct":  2,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Ticari nitelikli uçuş yapacak İHA0 ve İHA1 kategori pilotlarından, diğer gerekliliklere ek olarak aşağıdakilerden hangisi istenir?",
+        "choices":  [
+                        "B sınıfı sürücü olur sağlık raporu gereksinimlerini karşılayan sağlık raporu",
+                        "1\u0027inci Sınıf Sağlık Sertifikası",
+                        "Havacılık tıp merkezi onaylı uçucu sağlık raporu",
+                        "Psikoteknik değerlendirme raporu"
+                    ],
+        "correct":  0,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "İHA2 Pilot Lisansı düzenlenebilmesi için İHA ve sistemlerinin üreticisinden veya yetkili temsilcisinden alınması gereken asgari uçuş eğitimi süresi kaç saattir?",
+        "choices":  [
+                        "3 saat",
+                        "12 saat",
+                        "24 saat",
+                        "36 saat"
+                    ],
+        "correct":  3,
+        "difficulty":  "zor"
+    },
+    {
+        "question":  "İHA2 Pilot Lisansı düzenlenebilmesi için Genel Müdürlük veya EASA üyesi bir ülke tarafından düzenlenmiş asgari hangi sağlık sertifikasına sahip olunması gerekir?",
+        "choices":  [
+                        "1\u0027inci Sınıf Sağlık Sertifikası",
+                        "2\u0027nci Sınıf Sağlık Sertifikası",
+                        "3\u0027üncü Sınıf Sağlık Sertifikası",
+                        "B sınıfı sürücü sağlık raporu"
+                    ],
+        "correct":  1,
+        "difficulty":  "zor"
+    },
+    {
+        "question":  "İHA0 ve İHA1 sınıfı İHA\u0027lar ile ticari faaliyetler dışında sportif ve amatör amaçla serbest (yeşil) bölgelerde gerçekleştirilecek uçuşlarda Genel Müdürlükten uçuş izni nasıl alınır?",
+        "choices":  [
+                        "Kayıt sistemi tarafından otomatik verilir.",
+                        "10 iş günü öncesinden dilekçe ile başvurulur.",
+                        "Mülki idare amirinden yazılı izin alınır.",
+                        "NOTAM yayımlanması beklenir."
+                    ],
+        "correct":  0,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Özel izne tabi (kırmızı) bölgelerde yapılacak her türlü uçuş için İHA Uçuş İzni Talep Formu ile kaç iş günü öncesinden başvuru yapılır?",
+        "choices":  [
+                        "3 iş günü",
+                        "5 iş günü",
+                        "10 iş günü",
+                        "20 iş günü"
+                    ],
+        "correct":  2,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Özel izne tabi (kırmızı) bölge tanımına göre, irtifaya bağlı olmaksızın havalimanlarında en yakında bulunan pistin kenarından itibaren risk analizi ve izin olmadan uçuş yapılması yasak olan mesafe aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "1 NM (2 km)",
+                        "3 NM (5 km)",
+                        "10 NM (18 km)",
+                        "5 NM (9 km)"
+                    ],
+        "correct":  3,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "İHA0 ve İHA1 sınıfı İHA\u0027lar ile serbest (yeşil) bölgelerde yapılacak uçuşlarda yerden (AGL) çıkılabilecek azami yükseklik aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "400 feet (120 metre)",
+                        "500 feet (150 metre)",
+                        "300 feet (90 metre)",
+                        "1000 feet (300 metre)"
+                    ],
+        "correct":  0,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Serbest (yeşil) bölgelerde yapılacak uçuşlarda İHA ile insan ve yapılardan en az kaç metre uzaklıkta uçuş gerçekleştirilmelidir?",
+        "choices":  [
+                        "10 metre",
+                        "25 metre",
+                        "50 metre",
+                        "100 metre"
+                    ],
+        "correct":  2,
+        "difficulty":  "kolay"
+    }
+]
