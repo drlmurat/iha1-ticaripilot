@@ -1,0 +1,1669 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns00001000111" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" preventUpscale="true" outputtype="undefined" theme="unified" themeAccentColor="0x4FBDF4">
+  <layouts>
+    <layout name="npnxnanbsnfns00001000111" font="Lato" controllayout="npnxnanbsnfns00001000111" colorscheme="pxabnsnfns00001000111" string_table="pxabnsnfns00001000111" />
+    <layout name="pxabnsnfns00001000111" font="Lato" controllayout="pxabnsnfns00001000111" colorscheme="pxabnsnfns00001000111" string_table="pxabnsnfns00001000111" />
+    <layout name="npxnabnsnfns00001000111" font="Lato" controllayout="npxnabnsnfns00001000111" colorscheme="pxabnsnfns00001000111" string_table="pxabnsnfns00001000111" />
+    <layout name="npnxnanbnsnfns00001000111" font="Lato" controllayout="npnxnanbnsnfns00001000111" colorscheme="pxabnsnfns00001000111" string_table="pxabnsnfns00001000111" />
+    <layout name="pxabnsnfns00001000110" font="Lato" controllayout="pxabnsnfns00001000110" colorscheme="pxabnsnfns00001000111" string_table="pxabnsnfns00001000111" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="iha-tanitim2" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="false">
+            <options />
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+              <option name="closed" value="false" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="none" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+          <option name="logoAltText" />
+          <option name="logoAltTextEnabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="true" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="search" value="true" />
+          <option name="closed_captions" value="false" />
+          <option name="settings" value="true" />
+          <option name="playbackSpeedControl" value="true" />
+          <option name="fullScreenToggle" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="buttonoptions">
+        <options>
+          <option name="next" value="icontext" />
+          <option name="previous" value="icontext" />
+          <option name="submit" value="icontext" />
+        </options>
+      </optiongroup>
+      <optiongroup name="ccOptions">
+        <options>
+          <option name="font" value="Lato" />
+          <option name="size" value="100" />
+          <option name="placement" value="100" />
+          <option name="backgroundColor" value="#000000FF" />
+          <option name="color" value="#FFFFFFFF" />
+          <option name="textShadow" value="1" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns00001000111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="true" />
+      <control name="playbackSpeedControl" enabled="true" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns00001000111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="true" />
+      <control name="playbackSpeedControl" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns00001000111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="true" />
+      <control name="playbackSpeedControl" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns00001000111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="true" />
+      <control name="playbackSpeedControl" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns00001000110">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="true" />
+      <control name="playbackSpeedControl" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="pxabnsnfns00001000111">
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="focus_rect_secondary">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x002060" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="preloader">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFF0000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3C3C3C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x316300" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4E4E4E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4E4E4E" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x454545" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x222222" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="scene_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_text">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="6" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="selected_hover_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="notes">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="6" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bottom_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="60" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x292929" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x457E13" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3F8500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="outer_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="6" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_in_tab">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x545454" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6AA242" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x275000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4B8A16" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB3B4B3" alpha="75" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB3B4B3" alpha="75" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x479901" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x366F00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="generic_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="94" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="right_shadow">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+                <color rgb="0x000000" alpha="30" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x454545" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x254B00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xAFDD82" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5300" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_on_dark_background">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_on_dark_background_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="brandhighlight">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4FBDF4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="brandhighlight_secondary">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x454545" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="overlay_message">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="85" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="6" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x454545" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="control_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="settings">
+        <group_colors>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="panel_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="35" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C7C7C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_thumb_off">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA2A2A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_track_on">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4FBDF4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_track_off">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="10" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_label">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="settings_border_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x454545" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2B5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2B5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x428C01" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="40" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="volume_border_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x454545" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="pxabnsnfns00001000111">
+      <string id="acc_cc_hide">Başlıkları gizle (Ctrl+Alt+C)</string>
+      <string id="acc_cc_show">Başlıkları göster (Ctrl+Alt+C)</string>
+      <string id="acc_correct_choice">%answer% (doğru seçim)</string>
+      <string id="acc_enter_fullscreen">Tam ekrana gir (Ctrl+Alt+F)</string>
+      <string id="acc_exit_fullscreen">Tam ekrandan çık (Ctrl+Alt+F)</string>
+      <string id="acc_locked">kilitli</string>
+      <string id="acc_modern_video_captions">video altyazıları</string>
+      <string id="acc_modern_video_fullscreen">tam ekran </string>
+      <string id="acc_modern_video_mute">videoyu sessize al</string>
+      <string id="acc_modern_video_pause">videoyu duraklat</string>
+      <string id="acc_modern_video_pip">resim içinde resim</string>
+      <string id="acc_modern_video_play">videoyu oynat</string>
+      <string id="acc_modern_video_playback_speed">geri oynatım hızı</string>
+      <string id="acc_modern_video_settings">video ayarları </string>
+      <string id="acc_modern_video_transcript">Yazılar</string>
+      <string id="acc_modern_video_volume">video sesi</string>
+      <string id="acc_mute">Sesi Kapat (Ctrl+Alt+M)</string>
+      <string id="acc_next">Sonraki (Ctrl+Alt+nokta)</string>
+      <string id="acc_next_visual">Sonraki (Ctrl+Alt+.)</string>
+      <string id="acc_ordinal_eighth">sekizinci</string>
+      <string id="acc_ordinal_fifth">beşinci</string>
+      <string id="acc_ordinal_first">ilk</string>
+      <string id="acc_ordinal_fourth">dördüncü</string>
+      <string id="acc_ordinal_ninth">dokuzuncu</string>
+      <string id="acc_ordinal_second">ikinci</string>
+      <string id="acc_ordinal_seventh">yedinci</string>
+      <string id="acc_ordinal_sixth">altıncı</string>
+      <string id="acc_ordinal_tenth">onuncu</string>
+      <string id="acc_ordinal_third">üçüncü</string>
+      <string id="acc_pause">Duraklat (Ctrl+Alt+P)</string>
+      <string id="acc_play">Oynat (Ctrl+Alt+P)</string>
+      <string id="acc_playback_speed">Tekrar oynatma hızı</string>
+      <string id="acc_played">%time% oynatıcı</string>
+      <string id="acc_previous">Önceki (Ctrl+Alt+virgül)</string>
+      <string id="acc_previous_visual">Önceki (Ctrl+Alt+,)</string>
+      <string id="acc_replay">Tekrar Oynat (Ctrl+Alt+R)</string>
+      <string id="acc_search_input">ara</string>
+      <string id="acc_search_result_status">%term% için %count% sonuç bulundu</string>
+      <string id="acc_search_results_status">%count% bulunan sonuçlar %term%</string>
+      <string id="acc_select_an_option">Bir seçenek seçin</string>
+      <string id="acc_settings">Ayarlar</string>
+      <string id="acc_skipnavigation">En yukarıya dön</string>
+      <string id="acc_slide_progress">slayt ilerlemesi</string>
+      <string id="acc_submit">Gönder (Ctrl+Alt+S)</string>
+      <string id="acc_three_image_count_of_total_item_visited">%count% / %total% ziyaret edilen içerik</string>
+      <string id="acc_three_image_count_of_total_items_visited">%count% / %total% ziyaret edilen içerik</string>
+      <string id="acc_three_image_step_count_of_total">adım %count% / %total%</string>
+      <string id="acc_unmute">Sesi Aç (Ctrl+Alt+M)</string>
+      <string id="acc_video_transcript_list">Yazı</string>
+      <string id="acc_visited">ziyaret edilen</string>
+      <string id="acc_window_close">Kapat</string>
+      <string id="acc_window_move">Pencereyi taşı</string>
+      <string id="acc_window_options">Seçenekler</string>
+      <string id="acc_window_resize">Pencereyi yeniden boyutlandır</string>
+      <string id="accessible_text">Erişilebilir metin</string>
+      <string id="acctext_shortcut">Erişilebilir metni aç / kapat</string>
+      <string id="action">Eylem</string>
+      <string id="alt_key">Alt</string>
+      <string id="background_audio">Arka plan sesi</string>
+      <string id="background_audio_shortcut">Arka plan sesini aç/kapat</string>
+      <string id="clear">Temizle ve Menüye dön</string>
+      <string id="close">Kapat</string>
+      <string id="closed_captions">Altyazılar</string>
+      <string id="closedcaptions_shortcut">Başlıkları değiştir</string>
+      <string id="comma_key">Virgül</string>
+      <string id="continueresponsive">Devam Et</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="desktop_start">Kursu Başlat</string>
+      <string id="disabled_orientation">Lütfen cihazınızı döndürün</string>
+      <string id="enable_keyboardshortcuts">Klavye kısayollarını etkinleştir</string>
+      <string id="filter">Filtre</string>
+      <string id="fullscreen_shortcut">Tam ekran modunu değiştir</string>
+      <string id="glossary">Sözlük</string>
+      <string id="keyboardshortcuts">Klavye Kısayolları</string>
+      <string id="keyboardshortcuts_lower">Klavye Kısayolları</string>
+      <string id="mobile_start">Kursu Başlat</string>
+      <string id="modern_video_captions_label">Altyazılar</string>
+      <string id="modern_video_captions_off">Gizle</string>
+      <string id="modern_video_captions_on">Göster</string>
+      <string id="modern_video_normal_speed">Normal</string>
+      <string id="modern_video_playback_settings">Video Geri Oynatım Ayarları</string>
+      <string id="modern_video_playback_speed_title">Geri oynatım Hızı</string>
+      <string id="modern_video_settings_close">video ayarlarını kapat</string>
+      <string id="mute_shortcut">Sesi kapat / sesi aç</string>
+      <string id="next">İLERİ</string>
+      <string id="next_shortcut">Sonraki</string>
+      <string id="outline">MENÜ</string>
+      <string id="outline_container">MENÜ</string>
+      <string id="period_key">Dönem</string>
+      <string id="playback_speed_normal">Normal</string>
+      <string id="playback_speed_title">Geri oynatım Hızı</string>
+      <string id="playpause_shortcut">Oynat / durdur</string>
+      <string id="prev">GERİ</string>
+      <string id="previous_shortcut">Önceki</string>
+      <string id="progress_hour">saat</string>
+      <string id="progress_hours">saat</string>
+      <string id="progress_minute">dakika</string>
+      <string id="progress_minutes">dakika</string>
+      <string id="progress_second">saniye</string>
+      <string id="progress_seconds">saniye</string>
+      <string id="question_mark_key">Soru işareti</string>
+      <string id="replay_shortcut">Tekrar Oynat</string>
+      <string id="resources">Kaynaklar</string>
+      <string id="restart">Yeniden Başlat</string>
+      <string id="resume">Devam</string>
+      <string id="search">Arama:</string>
+      <string id="search_in">Arama alanı:</string>
+      <string id="search_results">Arama Sonuçları</string>
+      <string id="search_toggle">Ara</string>
+      <string id="shift_key">Shift</string>
+      <string id="shortcut">Kısayol</string>
+      <string id="shortcuthelp">Klavye kısayollarını listele</string>
+      <string id="sidebar_toggle">Yan Çubuğu Aç/Kapat</string>
+      <string id="slide_text_chk">Slayt Metni</string>
+      <string id="streaming_video_local_playback_learn_more">Daha fazla bilgi edinin</string>
+      <string id="streaming_video_local_playback_republish">Bu videoyu izlemek için Storyline 360'taki önizleme özelliğini kullanın, yayımlanan çıktınızı bir sunucuya yükleyin, Review 360'ta yayımlayın veya statik video kalitesine geçiş yapın.</string>
+      <string id="streaming_video_local_playback_title">Akıştaki video, yerel oynatma için kullanılamıyor.</string>
+      <string id="submit">GÖNDER</string>
+      <string id="submit_shortcut">Gönder</string>
+      <string id="terms">Terimler</string>
+      <string id="three_image_audio">ses</string>
+      <string id="three_image_camera_down">kamera aşağı hareket etti</string>
+      <string id="three_image_camera_left">kamera sola hareket etti</string>
+      <string id="three_image_camera_right">kamera sağa hareket etti</string>
+      <string id="three_image_camera_up">kamera yukarı hareket etti</string>
+      <string id="three_image_count_of_total">%count% / %total%</string>
+      <string id="three_image_count_of_total_visited">%count% / %total% ziyaret edilen</string>
+      <string id="three_image_hotspot">etkin nokta</string>
+      <string id="three_image_instructions">360 derecelik görüntüde gezinmek için w, a, s ve d tuşlarını kullanın. Etkileşimli işaretçilere ve etkin noktalara gitmek için Sekme tuşuna basın.</string>
+      <string id="three_image_interaction">360 derece görüntü etkileşimi</string>
+      <string id="three_image_interaction_free">serbest keşif modu</string>
+      <string id="three_image_interaction_guided">rehberli tur modu</string>
+      <string id="three_image_interaction_next">sonraki</string>
+      <string id="three_image_interaction_prev">önceki</string>
+      <string id="three_image_label">etiket</string>
+      <string id="three_image_marker">işaretçi</string>
+      <string id="three_image_pause_audio">sesi duraklat</string>
+      <string id="three_image_pause_video">videoyu duraklat</string>
+      <string id="three_image_play_audio">sesi oynat</string>
+      <string id="three_image_play_video">videoyu oynat</string>
+      <string id="three_image_progress_audio">ilerle</string>
+      <string id="three_image_progress_video">ilerle</string>
+      <string id="three_image_tooltip">araç ipucu</string>
+      <string id="three_image_total_item">%total% içerik</string>
+      <string id="three_image_total_items">%total% içerik</string>
+      <string id="three_image_video">video</string>
+      <string id="three_image_video_volume">video sesi</string>
+      <string id="togglezoom">Sığacak şekilde yakınlaştırmayı aç / kapat</string>
+      <string id="transcript">Notlar</string>
+      <string id="transcript_auto_scroll">Otomatik kaydır</string>
+      <string id="transcript_chk">Notlar</string>
+      <string id="transcript_show_timestamp">Zaman damgalarını göster</string>
+      <string id="video_transcript_mobile_label">Transkript</string>
+      <string id="video_transcript_resume_autoscroll">Otomatik kaydırmayı sürdür</string>
+      <string id="video_transcript_select_track">Parça seç</string>
+      <string id="video_transcript_title">Transkript</string>
+      <string id="zoom_to_fit">Sığacak şekilde yakınlaştır</string>
+      <string id="continue">Devam Et</string>
+      <string id="invalid_prompt_button">Tamam</string>
+      <string id="invalid_prompt_message">Göndermeden önce soruyu tamamlamanız gerekir.</string>
+      <string id="invalid_prompt_title">Geçersiz Yanıt</string>
+      <string id="print_prompt_button">Tamam</string>
+      <string id="print_prompt_title">Ad girin</string>
+      <string id="print_prompt_message">Adınızı aşağıdaki alana girin:</string>
+      <string id="timer_prompt_button">Tamam</string>
+      <string id="timer_prompt_title">Zaman Sınırı Aşıldı</string>
+      <string id="timer_prompt_message">Sınav için belirlenen zaman sınırını aştınız. Devam etmek için 'Tamam'a basın</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Lato">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.5eM3BWzZ7Ro" displaytext="2. İHA Tanıtım" expand="true" type="slide" translationId="6NBw927f0gP">
+          <links>
+            <slidelink slideid="_player.5eM3BWzZ7Ro.6WJNZJm6kti" displaytext="İçindekiler" expand="false" type="slide" translationId="6DkaW4swVaC" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.5XUe1s67WI9" displaytext="İHA’nın Temel Prensipleri 1" expand="false" type="slide" translationId="6OxL2aZ8maD" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.5apAZbbJdex" displaytext="İHA’nın Temel Prensipleri 2" expand="false" type="slide" translationId="6JJVU0a16kL" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.6GZbvxhM6pB" displaytext="İHA’nın Temel Prensipleri 3" expand="false" type="slide" translationId="6bMvnM0Ww5j" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.5yv7JeoLmfW" displaytext="İHA’nın Temel Prensipleri 4" expand="false" type="slide" translationId="5Yf4l3W5WVe" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.5prfYSqt7zk" displaytext="İHA’nın Temel Prensipleri 5" expand="false" type="slide" translationId="65ZkN8viQvE" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.6erpxev7cCR" displaytext="İHA’nın Temel Prensipleri 6" expand="false" type="slide" translationId="6mdqZJucdK3" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.68FzKvpyoTy" displaytext="İHA’nın Temel Prensipleri 7" expand="false" type="slide" translationId="5brgw6sTlMh" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.6kFpgcOqEkQ" displaytext="İHA’nın Temel Prensipleri 8" expand="false" type="slide" translationId="6OP0ASIXTHn" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.5XdZszpwBrg" displaytext="İHA’nın Temel Prensipleri 9" expand="false" type="slide" translationId="6SyAUy5evEO" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.6bQze1orAog" displaytext="İHA’nın Temel Prensipleri 10" expand="false" type="slide" translationId="5ft3UUHXfSe" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.66ioC3gzwKa" displaytext="İHA’nın Temel Prensipleri 11" expand="false" type="slide" translationId="6HtxuAPeXOa" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.63Tbq3ZBACC" displaytext="İHA’nın Temel Prensipleri 12" expand="false" type="slide" translationId="5ZDYDI5psk2" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.5lkZXoQGjhM" displaytext="İHA’nın Temel Prensipleri 13" expand="false" type="slide" translationId="6KQD33cIDLy" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.5o8vmH1w0Qe" displaytext="İHA’nın Temel Prensipleri 14" expand="false" type="slide" translationId="6Z57pOk3VP5" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.6JZfvjZO95f" displaytext="İHA’nın Temel Prensipleri 15" expand="false" type="slide" translationId="5VQThYE6QMG" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.5p33xTweYkk" displaytext="İHA’nın Temel Prensipleri 16" expand="false" type="slide" translationId="6nz3JkS9ii7" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.5wq70Xi0egk" displaytext="İHA’nın Temel Prensipleri 17" expand="false" type="slide" translationId="5kaUp3177yR" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.6o3KuwugDn6" displaytext="İHA’nın Temel Prensipleri 18" expand="false" type="slide" translationId="5YHJnRL7our" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.6ptVdIleEPA" displaytext="İHA’nın Temel Prensipleri 19" expand="false" type="slide" translationId="6pvLja8oBxM" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.67lJwaCTIB8" displaytext="İHA’nın Temel Prensipleri 20" expand="false" type="slide" translationId="6SxHF9G2za8" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.5zZWYm7YkIO" displaytext="Drag and Drop" expand="false" type="slide" translationId="61IupbDNyUf" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.6KHUldlR50Z" displaytext="Drag and Drop" expand="false" type="slide" translationId="5lKwY1mqiCl" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.5Vn1rEUbx6h" displaytext="İHA’nın Teknik Kabiliyeti 1" expand="false" type="slide" translationId="6mCsn6gbvne" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.6i4IlAz0YLN" displaytext="İHA’nın Teknik Kabiliyeti 2" expand="false" type="slide" translationId="6CVgQpbxasm" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.5V91qnFk170" displaytext="İHA’nın Teknik Kabiliyeti 3" expand="false" type="slide" translationId="5ZGjKnPlNAZ" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.6akc6UiE60Q" displaytext="İHA’nın Teknik Kabiliyeti 4" expand="false" type="slide" translationId="5WCEqXeu6t5" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.5UipzyiXf7H" displaytext="Aşağıdaki durumlardan hangisi, İHA’ların insanlı hava araçlarına göre sağladığı “güvenlik avantajını” en iyi açıklar?" expand="false" type="slide" translationId="5mMTy7ttf1Y" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.6c2xfVKBCbw" displaytext="Bir tarım işletmesi, geniş bir araziyi kısa sürede görüntülemek, bitki sağlığını izlemek ve yüksek çözünürlüklü veriler elde etmek istemektedir. Bu durumda İHA kullanımının öne çıkan teknik avantajı aşağıdakilerden hangisidir?" expand="false" type="slide" translationId="6TQ14xpMOKa" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.6UjA1gmnit4" displaytext="Aşağıdakilerden hangisi İHA sistemlerinin teknik veya operasyonel dezavantajlarından biri değildir?" expand="false" type="slide" translationId="5lMXVPtIkHN" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.60PuA60ag4u" displaytext="Önceden belirlenmiş bir güzergâh boyunca uçan ve belirli noktaları otomatik olarak görüntüleyen bir İHA’nın bu görevi yerine getirmesinde en belirleyici teknik kabiliyet aşağıdakilerden hangisidir?" expand="false" type="slide" translationId="6O3JGGkoO74" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.6KiFmKo3xNh" displaytext="Yer kontrol istasyonunun İHA operasyonlarındaki temel görevi aşağıdakilerden hangisidir?" expand="false" type="slide" translationId="6ScPYVjvoZ2" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.6dfe32Xw7Xe" displaytext="Bir İHA’dan gelen canlı kamera görüntülerinin izlenmesi, GPS verilerinin takip edilmesi ve uçuş bilgilerinin analiz edilmesi aşağıdaki bileşenlerden hangisiyle en doğrudan ilişkilidir?" expand="false" type="slide" translationId="5n6yqwwWsZj" />
+            <slidelink slideid="_player.5eM3BWzZ7Ro.6UOzwyWrWB2" displaytext="Aşağıdakilerden hangisi İHA sistemlerinde “faydalı yük” kavramını en doğru şekilde açıklar?" expand="false" type="slide" translationId="5vZl88wCQga" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="5eM3BWzZ7Ro.6WJNZJm6kti" slidebank="false" type="slide"> konu başlıkları 4) İha’nın teknik kabiliyeti 4) İha’nın teknik kabiliyeti 4) İha’nın teknik kabiliyeti 3) İha’nın temel prensipleri 3) İha’nın temel prensipleri 3) İha’nın temel prensipleri</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.5XUe1s67WI9" slidebank="false" type="slide"> farklı görev ve tipte, askeri ve sivil kullanım amacı ile yüzlerce hatta binlerce model görmek mümkündür. fakat bu modeller, genel olarak 3 farklı prensipte toplanabilir.  bu prensipler: temelde havada kalma ve havada seyredebilme kabiliyetini sağlayan kaldırma kuvvetinin doğuşu hepsinde aynı mantıktadır fakat uygulanma biçimleri farklıdır.  farklı görev ve tipte, askeri ve sivil kullanım amacı ile yüzlerce hatta binlerce model görmek mümkündür. fakat bu modeller, genel olarak 3 farklı prensipte toplanabilir.  bu prensipler: temelde havada kalma ve havada seyredebilme kabiliyetini sağlayan kaldırma kuvvetinin doğuşu hepsinde aynı mantıktadır fakat uygulanma biçimleri farklıdır.  vtol dediğimiz İha’lardır.  döner kanatlı hava araçları ve bunların birleşimi olan  sabit kanatlı hava araçları,  sabit kanatlı hava araçları,  3) İha’nın temel prensipleri</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.5apAZbbJdex" slidebank="false" type="slide"> sabit kanatlı hava araçları: sabit kanatlı hava aracı, genel olarak kanatları sabit bir şekilde duran ve uçuşunu bu sabit kanatlar sayesinde sürdüren bir hava aracıdır. bu tür hava araçları genellikle uçaklar olarak bilinir. sabit kanatlı hava araçlarının temel özellikleri şunlardır: sabit kanatlar: uçuş sırasında kanatlar hareket etmez. kanatlar sabit bir şekilde uçağın gövdesine monte edilmiştir ve bu sayede uçağın lift (kaldırma kuvveti) üretmesini sağlar. uçuş prensibi: sabit kanatlı hava araçları, kanatların üzerindeki hava akımını kullanarak kaldırma kuvveti oluşturur. uçaklar, bu kuvvet sayesinde havada kalabilirler.    3) İha’nın temel prensipleri</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.6GZbvxhM6pB" slidebank="false" type="slide">3. hareket kabiliyeti: sabit kanatlı hava araçları genellikle daha hızlı ve uzun mesafeleri daha verimli bir şekilde katedebilir. ayrıca yüksek irtifalarda uçma yetenekleri vardır. 4. kontrol sistemleri: yönlendirme ve kontrol için genellikle kuyruk kısmında yer alan yatay ve dikey stabilizatörler kullanılır. bu sistemler, uçağın dengesini ve yönünü sağlamada kritik rol oynar. 5. kullanım alanları: sabit kanatlı hava araçları, sivil ve askeri havacılıkta geniş bir kullanım yelpazesine sahiptir. kargo taşımacılığı, yolcu taşımacılığı, askeri görevler ve çeşitli keşif faaliyetleri gibi alanlarda kullanılırlar. sabit kanatlı hava araçları, dinamik aerodinamik özellikleri ve çeşitli kullanım alanları ile havacılığın temel taşlarından biridir.  3) İha’nın temel prensipleri</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.5yv7JeoLmfW" slidebank="false" type="slide"> sabit kanatlı hara araçları:  sabit kanatlı hava aracı, en geniş anlamda uçaklardır. teknik açıdan sabit kanat, taşıyıcı yüzeyi gövdeye en az iki yerden sabitlenmiş ve hareketli kumanda yüzeyleri ile 3 eksende kumanda edilebilen hava araçlarıdır. sabit kanatlarda teçhizat hariç, yapının 6 bölümden oluştuğu kabul edilir. bu bölümler:   6) güç grubu (motorlar) 6) güç grubu (motorlar) 6) güç grubu (motorlar) 5) İniş takımları 5) İniş takımları 5) İniş takımları 4) uçuş kontrol yüzeyleri 4) uçuş kontrol yüzeyleri 4) uçuş kontrol yüzeyleri 3) kuyruk takımı 3) kuyruk takımı 3) kuyruk takımı 2) gövde 2) gövde 2) gövde 1) kanat 1) kanat 1) kanat 3) İha’nın temel prensipleri</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.5prfYSqt7zk" slidebank="false" type="slide"> 1) kanatlar: kanatlar, uçağı havaya kaldıran ve havada tutunmasını sağlayan en önemli yapıdır. her yapı elemanında olduğu gibi uçak kanatlarının da esas görevlerinin yanı sıra başkaca görevleri de vardır. kanatların diğer görevleri şu şekildedir: • kanada uçuş kontrol yüzeyleri bağlanır. • kanada motorlar bağlanır. • kanada iniş takımları bağlanır. • kanatta yakıt depolanır. 3) İha’nın temel prensipleri</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.6erpxev7cCR" slidebank="false" type="slide"> 1) kanatlar: bütün uçak kanatları basık yapılardır. kanatların basıklıkları kesit profillerinin kalınlık oranıyla ölçülür. bir kanat profilinin kalınlığı hücum kenarında sıfır değerinden başlayarak veter boyunca değişir. firar kenarında yine sıfıra gider. kalınlığın veter boyunca aldığı en büyük değere maksimum kalınlık denir.  3) İha’nın temel prensipleri</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.68FzKvpyoTy" slidebank="false" type="slide"> 2) gövde: gövdenin başlıca görevi paralı ağırlık, yani yolcu ve kargo için boş alan oluşturmaktır. ancak bunun yanında aşağıdaki görevleri de bulunmaktadır:  • kanat bağlanır • kuyruk bağlanır • kokpiti ihtiva eder • motorlar bağlanır • İniş takımları bağlanır • yakıt depolar 3) İha’nın temel prensipleri</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.6kFpgcOqEkQ" slidebank="false" type="slide"> 3) kuyruk takımı: uçağın kuyruk bölümü, kuyruk konisi ve kuyruk takımından oluşur. gövdenin en arka kısmında bulunan kuyruk konisi, gövdenin arka kısmına aerodinamik şekil vermek ve gövdeyi kapatmak için kullanılır. koni, gövde ile aynı yapısal elemanlardan yapılmıştır. kuyruk takımı aynı zamanda 3 eksenden, 2’si olan ve yaw ile pitch hareketlerini sağlayan istikamet dümeni (rudder) ve irtifa dümeni (elevator) gibi birincil uçuş yüzeylerini barındırır.  3) İha’nın temel prensipleri</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.5XdZszpwBrg" slidebank="false" type="slide"> 4) uçuş kontrol yüzeyleri: uçuş kontrol yüzeyleri, üzerlerindeki aerodinamik kuvvetler değiştirilerek uçağın üç ana hareket ekseni etrafındaki hareketlerini kontrol etmek, bazı yüzeylerin hareketini kolaylaştırmak veya sınırlamak, dengesiz durumları gidermek ve gerekli hallerde taşıma ve sürükleme kuvvetlerinin değerlerini değiştirebilmek amacı ile kullanılan yapısal aerodinamik elemanlardır. bu elemanlar uçakta kanat, yatay kuyruk ve düşey kuyruk yüzeyleri üzerinde yerleşmişlerdir.  3) İha’nın temel prensipleri</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.6bQze1orAog" slidebank="false" type="slide"> 5) İniş takımları: uçakların iniş, kalkış ve yerdeki hareketlerinde, yer ile teması sağlayan, uçağın yatay ve düşey hareketinden dolayı oluşan yükleri karşılayan komponentlere iniş takımı denir. uçakların iniş takımları, genel olarak, ana iniş takımları ve yardımcı iniş takımlarından meydana gelmektedir. ana iniş takımları uçağın üzerine binen yükleri absorbe ederken, yardımcı iniş takımları uçağa yerde yön vermeye yarar. İniş takımlarının görevleri: İniş takımı sisteminin iki temel görevi vardır.  bunlar: uçağın kalkış ve inişleri ile yerdeki hareketlerinde uçağa binen yükleri sahip olduğu sistemlerle sönümlemek uçağın yerdeki hareketlerini sağlayan tekerlek, fren ve yön sistemi gibi ünitelerini üzerinde taşımak. 3) İha’nın temel prensipleri</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.66ioC3gzwKa" slidebank="false" type="slide"> 6) güç grubu - motorlar: uçakların uçuşunu, havada tutunmasını sağlayan unsur kanatlardır. motorların görevi ise uçağı öne doğru iterek hava akımının kanatların üzerinden gitmesini sağlayarak kaldırma kuvveti oluşturmaktır.  uçak motorunun ana fonksiyonu, uçağa gereken hareketi sağlamaktır. motorun uçaktaki diğer fonksiyonları ise: elektrik gücü sağlamak hidrolik gücü sağlamak pnömatik gücü sağlamak 3) İha’nın temel prensipleri</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.63Tbq3ZBACC" slidebank="false" type="slide"> döner kanatlı hava araçları: helikopter ya da drone olarak bilinen döner kanatlı hava araçları, dikeyde kalkış yapabilme kabiliyetine sahip yüksek teknolojili hava araçlarıdır. sabit kanatlara göre avantaj ve dezavantajları bulunan döner kanatlı hava araçlarının temel prensibi, sabit kanatlarla benzerlik göstermektedir.   temel prensip, sabit kanatlı insansız hava araçlarının kanat üstlerinde alçak basınç, kanat altlarında yüksek basınç elde ederek kaldırma kuvveti sağlamak iken, döner kanatlı hava araçlarında bu kaldırma kuvveti, kanat yerine pervanelerle sağlanmaktadır.  döner kanatlı insansız hava araçlarının en bilinen modelleri helikopterler ve günümüzde insansız olarak çokça kullanılan drone’lerdir.   3) İha’nın temel prensipleri</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.5lkZXoQGjhM" slidebank="false" type="slide"> helikopterler: helikopter, günümüzde savaş ve barış dönemlerinde etkin bir rolü olan döner kanatlı hava aracıdır. sivil havacılıkta ya da askeri amaçlı birçok alanda hizmet eden helikopterin kullanım alanları da artmaktadır. helikopterler ve uçaklar arasında bazı önemli büyük farklar bulunmaktadır.  İniş için uçak gibi büyük bir alana ihtiyaç duymayan helikopter en zor arazi şartlarında bile arama, kurtarma ve nakil amacı için kullanılmaktadır. dezavantajı ise yüksek irtifada ve yüksek hızda uçamamasıdır.  3) İha’nın temel prensipleri</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.5o8vmH1w0Qe" slidebank="false" type="slide"> droneler: İnsansız hava araçları (İha) hava akımı ve motorların kaldırma kuvvetleri ile uçuş yapabilen, yerden kumanda edilebilen veya planlanmış bir uçuş güzergahına göre havada hareket edebilen otonom cihazlardır. İha’lar kendi aralarında kanat açıklıklarına, motor tipleri ve yapılarına göre değişkenlik göstermektedir. 20 mt. kanat açıklığından, avuç içi boyutuna kadar farklı çeşitlerde İha’lar mevcuttur.  3) İha’nın temel prensipleri</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.6JZfvjZO95f" slidebank="false" type="slide"> vtol (vertical take off landing): vtol hava araçları, sabit kanatlı ve döner kanatlı hava araçları arasındaki boşluğu doldurmak, avantajlarını birleştirip dezavantajlarını ortadan kaldırmak üzere tasarlanmış, dikeyde iniş kalkış yapabilen ve yatayda uçak gibi uçabilen hava araçlarına denir. vtoller, döner kanatların dikeyde iniş kalkış yapabilme avantajı ile, sabit kanatların yatayda uçabilme  avantajlarına sahiptirler. 3) İha’nın temel prensipleri    video İzlemek için tıklayınız </slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.5p33xTweYkk" slidebank="false" type="slide"> vtol (vertical take off landing): bu avantaj sayesinde uçakların iniş kalkış yapamadıkları coğrafyalarda ve pisti kısa ya da bulunmayan arazilerde rahatlıkla kullanılırlar.  vtoller, farklı görev ve çalışma prensiplerine sahip olabilirler. bazıları havada ikmal, yük ve personel taşımak için tasarlanmış olabildiği gibi, bazı vtollerin savaşma kabiliyetleri de vardır. görev olarak farklı segmentlere ayrılan vtoller, yapı itibari ile de farklı üretilmektedir.  en yaygın vtol çeşitleri, jet motorlu vtoller ve tilt motorlu vtollerdir. jet motorlu vtollerin en bilinen modelleri f-35b ve harrier’dir.  İtki gücü sağlayan türbinli jet motorlar, yönlerini aşağı çevirip kaldırma kuvveti sağlarlar.  3) İha’nın temel prensipleri f-35b    video İzlemek için tıklayınız </slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.5wq70Xi0egk" slidebank="false" type="slide">döner kanatlı hava araçlarının temel özellikleri şunlardır: 1. ana rotor ve kuyruk rotoru ana rotor: uçağın kaldırma gücünü sağlayan ve uçağın temel uçuş işlevlerini gerçekleştiren döner kanattır. rotordaki pervaneler hava akışını değiştirir ve kaldırma kuvveti üretir. kuyruk rotoru: genellikle helikopterlerde bulunur ve ana rotordan kaynaklanan torku dengelemek için kullanılır. bu, helikopterin yönünü kontrol etmeye yardımcı olur. 2. dikey kalkış ve İniş yeteneği kalkış: döner kanatlı hava araçları, dikey olarak kalkış yapabilirler, bu da onları kısa veya zorlu iniş alanları için uygun hale getirir. İniş: aynı şekilde, dikey iniş yapabilirler, bu da onları helikopter pisti veya özel iniş alanları gerektirmeden kullanabilmeyi sağlar. 3. manevra kabiliyeti süzülme yeteneği (otorotasyon): helikopterler motor gücü olmadan havada kalabilirler. bu, enerji tasarrufu sağlarken yumuşak iniş yapmalarını sağlar. hız ve yön değiştirme: döner kanatlı hava araçları, özellikle helikopterler, geniş bir manevra yeteneğine sahiptir, bu da onları sıkışık ve zorlu ortamlar için uygun hale getirir.  3) İha’nın temel prensipleri</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.6o3KuwugDn6" slidebank="false" type="slide">4. güç ve performans motorlar: genellikle içten yanmalı motorlar veya turboşaft motorlar kullanılır. daha büyük helikopterlerde birden fazla motor bulunabilir. performans özellikleri: kalkış ve iniş mesafesi, maksimum hız, taşıma kapasitesi ve menzil gibi performans özellikleri, her tür döner kanatlı hava aracında değişkenlik gösterir. 5. uygulama alanları askeri kullanım: keşif, saldırı, arama-kurtarma ve lojistik görevleri gibi çeşitli askeri operasyonlar için kullanılır. sivil kullanım: ambulans hizmetleri, hava taksi, gözetim, tarım ve teslimat gibi çeşitli sivil görevlerde kullanılır. İnsansız hava araçları (drone): küçük ölçekli döner kanatlı hava araçları, hava fotoğrafçılığı, haritalama, ve gözetim gibi uygulamalar için yaygın olarak kullanılır. 6. kontrol sistemleri kapsamlı kontrol panelleri: modern döner kanatlı hava araçları, otomatik pilot sistemleri, gelişmiş navigasyon sistemleri ve çeşitli sensörlerle donatılmıştır. stabilite ve denge: hem manuel hem de otomatik kontrol sistemleri, uçuş stabilitesini ve güvenliğini sağlamak için kullanılır.  3) İha’nın temel prensipleri</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.6ptVdIleEPA" slidebank="false" type="slide">7. gelişmiş teknolojiler hibrid ve elektrikli motorlar: çevresel etkileri azaltmak ve yakıt verimliliğini artırmak için geliştirilen yeni teknolojiler arasında hibrid ve elektrikli motorlar bulunur. akıllı sistemler: yüksek teknolojili sensörler ve veri analizi, uçuş güvenliğini ve performansı artırmak için kullanılır. bu özellikler döner kanatlı hava araçlarının çeşitli görevlerde etkili olmasını sağlar ve tasarım, mühendislik ve operasyonel gereksinimlere göre farklılık gösterebilir.  3) İha’nın temel prensipleri</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.67lJwaCTIB8" slidebank="false" type="slide">3) İha’nın temel prensipleri    video İzlemek için tıklayınız </slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.5zZWYm7YkIO" slidebank="false" type="slide">yanlış bu yanlış. lütfen yeniden deneyin. yeniden dene yeniden dene yeniden dene yeniden dene yeniden dene yeniden dene yanlış tekrar inceleyiniz. sabit kanatlı İha’larda kaldırma kuvveti kanatlarla, döner kanatlı İha’larda rotor/pervanelerle sağlanır. vtol sistemler ise iki yapının avantajlarını birleştirir. devam et devam et devam et devam et devam et devam et doğru doğru. İha’lar temel uçuş prensiplerine göre sabit kanatlı, döner kanatlı ve vtol olarak sınıflandırılabilir. devam et devam et devam et devam et devam et devam et  vtol İha döner kanatlı İha sabit kanatlı İha dikey kalkış-iniş yapabilir ve yatay uçuşta sabit kanat avantajı sağlar. kaldırma kuvveti rotor veya pervaneler aracılığıyla sağlanır. kanatları sabittir; kaldırma kuvveti kanatlar üzerindeki hava akımıyla oluşur. aşağıdaki İha türlerini, temel uçuş özellikleriyle eşleştiriniz.</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.6KHUldlR50Z" slidebank="false" type="slide">yanlış bu yanlış. lütfen yeniden deneyin. yeniden dene yeniden dene yeniden dene yeniden dene yeniden dene yeniden dene yanlış cevabınızı gözden geçiriniz. kanat kaldırma kuvveti, güç grubu itki, iniş takımı yer hareketleri, kuyruk takımı ise denge ve yön kontrolüyle ilgilidir. devam et devam et devam et devam et devam et devam et doğru doğru. sabit kanatlı hava araçlarında her yapı elemanı uçuş emniyeti, denge ve performans açısından belirli bir göreve sahiptir. devam et devam et devam et devam et devam et devam et  kuyruk takımı İniş takımları güç grubu gövde kanat uçağın yön ve denge kontrolüne katkı sağlar.     faydalı yük, sistemler ve diğer yapıların taşındığı ana bölümdür. kaldırma kuvvetinin oluşmasında temel rol oynar. hava aracına gerekli itkiyi sağlayarak ileri hareket oluşturur. sabit kanatlı bir hava aracının temel bölümlerini uygun görevleriyle eşleştiriniz.</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.5Vn1rEUbx6h" slidebank="false" type="slide">İha’nın teknik kabiliyeti:  İha sistemlerinin insanlı hava araçlarına kıyasla avantajları şunlardır; tehlikeli görevlerde güvenlik: İha'lar, tehlikeli görevlerde insan operatörlerin riskini azaltır. örneğin, savaş alanlarında, yangın bölgelerinde veya radyoaktif alanlarda kullanıldıklarında, insanlar bu tehlikeli ortamlardan uzak tutulabilir. maliyet etkinliği: İha'lar, geleneksel hava araçlarına kıyasla daha düşük maliyetlerle işletilebilir. bu, bakım, yakıt ve personel maliyetlerinde tasarruf sağlar. hızlı ve etkili veri toplama: İha'lar, geniş alanları hızla tarayabilir ve yüksek çözünürlüklü görüntüler sağlayabilir. bu, özellikle tarım, çevre izleme ve afet yönetimi gibi alanlarda verimliliği artırır. gelişmiş gözetim ve İzleme: İha'lar, yüksek kaliteli kameralar ve sensörlerle donatıldıklarında, uzun süreli ve ayrıntılı gözetim sağlar. güvenlik, sınır kontrolü ve doğal afetlerin izlenmesi gibi uygulamalarda etkili olabilirler. yüksek hassasiyet: İha'lar, belirli bir alana odaklanarak hassas görevler gerçekleştirebilir. örneğin, tarımda bitki sağlığını izlemek veya inşaat alanlarındaki ilerlemeyi denetlemek için kullanılır.  4) İha’nın teknik kabiliyeti</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.6i4IlAz0YLN" slidebank="false" type="slide">kolay erişim: dar, yüksek veya zor erişilebilen alanlarda, İha'lar geleneksel araçların erişemeyeceği yerlere kolayca ulaşabilirler. bu, özellikle arama kurtarma operasyonları ve keşif görevleri için yararlıdır. otomatik uçuş modları: modern İha'lar, önceden programlanmış uçuş yollarını takip edebilir ve belirli görevleri otomatik olarak yerine getirebilir. bu, insan operatörlerin yükünü azaltır ve görevlerin doğruluğunu artırır. esneklik ve çok yönlülük: İha'lar, çeşitli sensörler ve yüklerle donatılabilir, bu da onları çok sayıda farklı uygulama için uygun hale getirir. örneğin, aynı İha, hem hava fotoğrafçılığı hem de sıcaklık sensörleri ile termal görüntüleme yapabilir. bu özelliklere ek olarak; • orantılı güç kullanımını sağlayabilmesi,   • geniş çaplı bir savaşa devam etmeyi önlemesi de İha’ları kullanmayı daha avantajlı kılar.  4) İha’nın teknik kabiliyeti</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.5V91qnFk170" slidebank="false" type="slide">  İha sistemlerinin insanlı hava araçlarına kıyasla dezavantajlarından bahsetmek gerekirse: hava koşullarına duyarlılık: İha'lar, kötü hava koşullarında (örneğin, rüzgar, yağış, kar) uçuş yapma yeteneklerini kaybedebilir veya performansları etkilenebilir. bu, özellikle hava durumu değişken olan bölgelerde sorun yaratabilir. sınırlı uçuş süresi: batarya kapasiteleri genellikle sınırlıdır, bu da uçuş sürelerinin kısa olabileceği anlamına gelir. bu süre, özellikle büyük alanların izlenmesi gerektiğinde sınırlayıcı olabilir. sınırlı yük kapasitesi: İha'ların yük taşıma kapasiteleri, genellikle sınırlıdır. bu, büyük veya ağır yüklerin taşınmasını zorlaştırabilir. siber güvenlik riskleri: İha'lar, siber saldırılara veya hacklenmeye karşı savunmasız olabilir. uçuş kontrol sistemleri ve veri iletimi, kötü niyetli kişiler tarafından ele geçirilebilir. gizlilik endişeleri: İha'ların kameraları ve sensörleri, kişisel mahremiyet ve gizlilik konusunda endişelere yol açabilir. özellikle kamu alanlarında veya özel mülkiyette izleme yapıldığında, gizlilik ihlalleri söz konusu olabilir. 4) İha’nın teknik kabiliyeti</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.6akc6UiE60Q" slidebank="false" type="slide">   yasal ve düzenleyici engeller: İha'ların kullanımı, ülkeden ülkeye değişen düzenlemelere tabidir. hava sahası yönetmelikleri, kayıt gereksinimleri ve izin süreçleri, İha operasyonlarını karmaşıklaştırabilir.    teknik arızalar: elektronik bileşenler, yazılım hataları veya donanım arızaları gibi teknik sorunlar, İha'nın kontrolünü kaybetmesine veya beklenmedik kazalara yol açabilir.    sınırlı görüş açısı ve sensörler: İha'ların görüş açıları ve sensör kapasiteleri sınırlı olabilir. örneğin, hava koşulları nedeniyle kamera görüş açısı daralabilir veya sensörler, bazı özel durumları algılayamayabilir.    sosyal ve etik sorunlar: İha'ların kullanımı, bazı sosyal ve etik sorunları da beraberinde getirebilir. özellikle askeri veya gözetim amaçlı kullanımlar, toplumda çeşitli endişelere yol açabilir. 4) İha’nın teknik kabiliyeti</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.5UipzyiXf7H" slidebank="false" type="slide">yanlış bu seçenek İha’ların güvenlik avantajını tam açıklamaz. İha’ların temel güvenlik katkısı, tehlikeli görevlerde insan operatörün fiziksel riskini azaltmasıdır. devam et devam et devam et devam et devam et devam et doğru bu seçenek İha’ların güvenlik avantajını tam açıklamaz. İha’ların temel güvenlik katkısı, tehlikeli görevlerde insan operatörün fiziksel riskini azaltmasıdır. devam et devam et devam et devam et devam et devam et yanlış doğru. İha’lar savaş alanı, yangın bölgesi, afet sahası veya radyoaktif alan gibi riskli ortamlarda insanın doğrudan tehlikeye girmesini azaltabilir. devam et devam et devam et devam et devam et devam et yanlış bu seçenek İha’ların güvenlik avantajını tam açıklamaz. İha’ların temel güvenlik katkısı, tehlikeli görevlerde insan operatörün fiziksel riskini azaltmasıdır. devam et devam et devam et devam et devam et devam et  İha’ların tehlikeli bölgelerde insan operatörün doğrudan risk almasını azaltması İha’ların tehlikeli bölgelerde insan operatörün doğrudan risk almasını azaltması İha’ların tehlikeli bölgelerde insan operatörün doğrudan risk almasını azaltması İha’ların tehlikeli bölgelerde insan operatörün doğrudan risk almasını azaltması İha’ların tehlikeli bölgelerde insan operatörün doğrudan risk almasını azaltması İha’ların tehlikeli bölgelerde insan operatörün doğrudan risk almasını azaltması İha’ların her zaman daha fazla yük taşıyabilmesi İha’ların her zaman daha fazla yük taşıyabilmesi İha’ların her zaman daha fazla yük taşıyabilmesi İha’ların her zaman daha fazla yük taşıyabilmesi İha’ların her zaman daha fazla yük taşıyabilmesi İha’ların her zaman daha fazla yük taşıyabilmesi İha’ların yasal izin gerektirmeden kullanılabilmesi İha’ların yasal izin gerektirmeden kullanılabilmesi İha’ların yasal izin gerektirmeden kullanılabilmesi İha’ların yasal izin gerektirmeden kullanılabilmesi İha’ların yasal izin gerektirmeden kullanılabilmesi İha’ların yasal izin gerektirmeden kullanılabilmesi aşağıdaki durumlardan hangisi, İha’ların insanlı hava araçlarına göre sağladığı “güvenlik avantajını” en iyi açıklar? İha’ların her hava koşulunda sorunsuz uçabilmesi İha’ların her hava koşulunda sorunsuz uçabilmesi İha’ların her hava koşulunda sorunsuz uçabilmesi İha’ların her hava koşulunda sorunsuz uçabilmesi İha’ların her hava koşulunda sorunsuz uçabilmesi İha’ların her hava koşulunda sorunsuz uçabilmesi</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.6c2xfVKBCbw" slidebank="false" type="slide">doğru bu durumda temel avantaj, İha’nın veri toplama ve görüntüleme kabiliyetidir. İha’ların uçuş süresi, yük kapasitesi ve hava koşullarına dayanıklılığı sınırsız değildir. devam et devam et devam et devam et devam et devam et yanlış bu durumda temel avantaj, İha’nın veri toplama ve görüntüleme kabiliyetidir. İha’ların uçuş süresi, yük kapasitesi ve hava koşullarına dayanıklılığı sınırsız değildir. devam et devam et devam et devam et devam et devam et yanlış bu durumda temel avantaj, İha’nın veri toplama ve görüntüleme kabiliyetidir. İha’ların uçuş süresi, yük kapasitesi ve hava koşullarına dayanıklılığı sınırsız değildir. devam et devam et devam et devam et devam et devam et yanlış doğru. İha’lar geniş alanların kısa sürede taranması, görüntülenmesi ve sensör verilerinin toplanması açısından önemli bir avantaj sağlar. devam et devam et devam et devam et devam et devam et  sınırsız uçuş süresi sınırsız uçuş süresi sınırsız uçuş süresi sınırsız uçuş süresi sınırsız uçuş süresi sınırsız uçuş süresi ağır yük taşıma kapasitesi ağır yük taşıma kapasitesi ağır yük taşıma kapasitesi ağır yük taşıma kapasitesi ağır yük taşıma kapasitesi ağır yük taşıma kapasitesi meteorolojik koşullardan etkilenmeme meteorolojik koşullardan etkilenmeme meteorolojik koşullardan etkilenmeme meteorolojik koşullardan etkilenmeme meteorolojik koşullardan etkilenmeme meteorolojik koşullardan etkilenmeme bir tarım işletmesi, geniş bir araziyi kısa sürede görüntülemek, bitki sağlığını izlemek ve yüksek çözünürlüklü veriler elde etmek istemektedir. bu durumda İha kullanımının öne çıkan teknik avantajı aşağıdakilerden hangisidir? hızlı ve etkili veri toplama hızlı ve etkili veri toplama hızlı ve etkili veri toplama hızlı ve etkili veri toplama hızlı ve etkili veri toplama hızlı ve etkili veri toplama</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.6UjA1gmnit4" slidebank="false" type="slide">doğru doğru. İha’lar tehlikeli görevlerde insan kaybı riskini artırmaz; tam tersine, insanın riskli ortama doğrudan girmesini azaltarak güvenlik avantajı sağlar. devam et devam et devam et devam et devam et devam et yanlış bu seçenekler İha’ların dezavantajları arasında değerlendirilebilir. İha’lar hava koşullarından etkilenebilir, sınırlı uçuş süresine sahip olabilir ve siber güvenlik riskleri taşıyabilir. devam et devam et devam et devam et devam et devam et yanlış bu seçenekler İha’ların dezavantajları arasında değerlendirilebilir. İha’lar hava koşullarından etkilenebilir, sınırlı uçuş süresine sahip olabilir ve siber güvenlik riskleri taşıyabilir. devam et devam et devam et devam et devam et devam et yanlış bu seçenekler İha’ların dezavantajları arasında değerlendirilebilir. İha’lar hava koşullarından etkilenebilir, sınırlı uçuş süresine sahip olabilir ve siber güvenlik riskleri taşıyabilir. devam et devam et devam et devam et devam et devam et  sınırlı batarya kapasitesi nedeniyle uçuş süresinin kısıtlı olması sınırlı batarya kapasitesi nedeniyle uçuş süresinin kısıtlı olması sınırlı batarya kapasitesi nedeniyle uçuş süresinin kısıtlı olması sınırlı batarya kapasitesi nedeniyle uçuş süresinin kısıtlı olması sınırlı batarya kapasitesi nedeniyle uçuş süresinin kısıtlı olması sınırlı batarya kapasitesi nedeniyle uçuş süresinin kısıtlı olması siber güvenlik risklerine açık olabilmesi siber güvenlik risklerine açık olabilmesi siber güvenlik risklerine açık olabilmesi siber güvenlik risklerine açık olabilmesi siber güvenlik risklerine açık olabilmesi siber güvenlik risklerine açık olabilmesi tehlikeli görevlerde insan kaybı riskini artırması tehlikeli görevlerde insan kaybı riskini artırması tehlikeli görevlerde insan kaybı riskini artırması tehlikeli görevlerde insan kaybı riskini artırması tehlikeli görevlerde insan kaybı riskini artırması tehlikeli görevlerde insan kaybı riskini artırması aşağıdakilerden hangisi İha sistemlerinin teknik veya operasyonel dezavantajlarından biri değildir? kötü hava koşullarından etkilenebilmesi kötü hava koşullarından etkilenebilmesi kötü hava koşullarından etkilenebilmesi kötü hava koşullarından etkilenebilmesi kötü hava koşullarından etkilenebilmesi kötü hava koşullarından etkilenebilmesi</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.60PuA60ag4u" slidebank="false" type="slide">doğru bu görev, yalnızca manuel kumanda veya fiziksel tasarım özellikleriyle açıklanamaz. planlı rota takibi ve otomatik görev yürütme, İha’nın yazılım destekli otomatik uçuş kabiliyetiyle ilişkilidir. devam et devam et devam et devam et devam et devam et yanlış bu görev, yalnızca manuel kumanda veya fiziksel tasarım özellikleriyle açıklanamaz. planlı rota takibi ve otomatik görev yürütme, İha’nın yazılım destekli otomatik uçuş kabiliyetiyle ilişkilidir. devam et devam et devam et devam et devam et devam et yanlış bu görev, yalnızca manuel kumanda veya fiziksel tasarım özellikleriyle açıklanamaz. planlı rota takibi ve otomatik görev yürütme, İha’nın yazılım destekli otomatik uçuş kabiliyetiyle ilişkilidir. devam et devam et devam et devam et devam et devam et yanlış doğru. otomatik uçuş modları, İha’nın önceden programlanmış uçuş yollarını takip etmesini ve belirli görevleri daha düzenli, tekrarlanabilir ve doğru şekilde gerçekleştirmesini sağlar. devam et devam et devam et devam et devam et devam et  sadece manuel kumanda ile yönlendirilmesi sadece manuel kumanda ile yönlendirilmesi sadece manuel kumanda ile yönlendirilmesi sadece manuel kumanda ile yönlendirilmesi sadece manuel kumanda ile yönlendirilmesi sadece manuel kumanda ile yönlendirilmesi faydalı yükün tamamen kaldırılması faydalı yükün tamamen kaldırılması faydalı yükün tamamen kaldırılması faydalı yükün tamamen kaldırılması faydalı yükün tamamen kaldırılması faydalı yükün tamamen kaldırılması gövde renginin görünür olması gövde renginin görünür olması gövde renginin görünür olması gövde renginin görünür olması gövde renginin görünür olması gövde renginin görünür olması önceden belirlenmiş bir güzergâh boyunca uçan ve belirli noktaları otomatik olarak görüntüleyen bir İha’nın bu görevi yerine getirmesinde en belirleyici teknik kabiliyet aşağıdakilerden hangisidir? otomatik uçuş modları ve görev planlama kabiliyeti otomatik uçuş modları ve görev planlama kabiliyeti otomatik uçuş modları ve görev planlama kabiliyeti otomatik uçuş modları ve görev planlama kabiliyeti otomatik uçuş modları ve görev planlama kabiliyeti otomatik uçuş modları ve görev planlama kabiliyeti</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.6KiFmKo3xNh" slidebank="false" type="slide">doğru yer kontrol istasyonu fiziksel kaldırma kuvveti üretmez veya yük ağırlığını ortadan kaldırmaz. temel işlevi, İha’nın kontrol edilmesi, izlenmesi ve görev sürecinin yönetilmesidir. devam et devam et devam et devam et devam et devam et yanlış yer kontrol istasyonu fiziksel kaldırma kuvveti üretmez veya yük ağırlığını ortadan kaldırmaz. temel işlevi, İha’nın kontrol edilmesi, izlenmesi ve görev sürecinin yönetilmesidir. devam et devam et devam et devam et devam et devam et yanlış doğru. yer kontrol istasyonu; İha’nın yönetilmesi, izlenmesi, görev planlarının uygulanması ve gerektiğinde otonom görevlerin yüklenmesi için kullanılan temel sistemlerden biridir. devam et devam et devam et devam et devam et devam et yanlış yer kontrol istasyonu fiziksel kaldırma kuvveti üretmez veya yük ağırlığını ortadan kaldırmaz. temel işlevi, İha’nın kontrol edilmesi, izlenmesi ve görev sürecinin yönetilmesidir. devam et devam et devam et devam et devam et devam et  hava aracını yönetmek, görevini yürütmesini sağlamak ve izlemek hava aracını yönetmek, görevini yürütmesini sağlamak ve izlemek hava aracını yönetmek, görevini yürütmesini sağlamak ve izlemek hava aracını yönetmek, görevini yürütmesini sağlamak ve izlemek hava aracını yönetmek, görevini yürütmesini sağlamak ve izlemek hava aracını yönetmek, görevini yürütmesini sağlamak ve izlemek İha’nın kaldırma kuvvetini doğrudan üretmek İha’nın kaldırma kuvvetini doğrudan üretmek İha’nın kaldırma kuvvetini doğrudan üretmek İha’nın kaldırma kuvvetini doğrudan üretmek İha’nın kaldırma kuvvetini doğrudan üretmek İha’nın kaldırma kuvvetini doğrudan üretmek faydalı yükün ağırlığını tamamen ortadan kaldırmak faydalı yükün ağırlığını tamamen ortadan kaldırmak faydalı yükün ağırlığını tamamen ortadan kaldırmak faydalı yükün ağırlığını tamamen ortadan kaldırmak faydalı yükün ağırlığını tamamen ortadan kaldırmak faydalı yükün ağırlığını tamamen ortadan kaldırmak yer kontrol istasyonunun İha operasyonlarındaki temel görevi aşağıdakilerden hangisidir? hava aracının yalnızca fiziksel gövdesini taşımak hava aracının yalnızca fiziksel gövdesini taşımak hava aracının yalnızca fiziksel gövdesini taşımak hava aracının yalnızca fiziksel gövdesini taşımak hava aracının yalnızca fiziksel gövdesini taşımak hava aracının yalnızca fiziksel gövdesini taşımak</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.6dfe32Xw7Xe" slidebank="false" type="slide">doğru bu işlem doğrudan iniş takımı, güç grubu veya kanat profiliyle ilgili değildir. İha’dan gelen verilerin izlenmesi ve analiz edilmesi veri terminalinin temel işlevlerindendir. devam et devam et devam et devam et devam et devam et yanlış bu işlem doğrudan iniş takımı, güç grubu veya kanat profiliyle ilgili değildir. İha’dan gelen verilerin izlenmesi ve analiz edilmesi veri terminalinin temel işlevlerindendir. devam et devam et devam et devam et devam et devam et yanlış bu işlem doğrudan iniş takımı, güç grubu veya kanat profiliyle ilgili değildir. İha’dan gelen verilerin izlenmesi ve analiz edilmesi veri terminalinin temel işlevlerindendir. devam et devam et devam et devam et devam et devam et yanlış doğru. veri terminali; İha’dan gelen canlı görüntü, gps bilgisi, batarya durumu ve sensör verileri gibi bilgilerin izlenmesi, kaydedilmesi ve analiz edilmesi için kullanılır. devam et devam et devam et devam et devam et devam et  İniş takımı İniş takımı İniş takımı İniş takımı İniş takımı İniş takımı güç grubu güç grubu güç grubu güç grubu güç grubu güç grubu kanat profili kanat profili kanat profili kanat profili kanat profili kanat profili bir İha’dan gelen canlı kamera görüntülerinin izlenmesi, gps verilerinin takip edilmesi ve uçuş bilgilerinin analiz edilmesi aşağıdaki bileşenlerden hangisiyle en doğrudan ilişkilidir? veri terminali veri terminali veri terminali veri terminali veri terminali veri terminali</slidetext>
+      <slidetext slideid="5eM3BWzZ7Ro.6UOzwyWrWB2" slidebank="false" type="slide">doğru faydalı yük, İha’nın uçuş prensibini doğrudan oluşturan bir unsur değildir; ancak İha’nın toplam kalkış ağırlığını, uçuş süresini ve görev kabiliyetini etkileyebilir. devam et devam et devam et devam et devam et devam et yanlış faydalı yük, İha’nın uçuş prensibini doğrudan oluşturan bir unsur değildir; ancak İha’nın toplam kalkış ağırlığını, uçuş süresini ve görev kabiliyetini etkileyebilir. devam et devam et devam et devam et devam et devam et yanlış doğru. faydalı yük; İha’nın görev amacına göre taşıdığı kamera, sensör, kargo, ilaçlama sistemi, iletişim ekipmanı veya benzeri ek bileşenleri ifade eder. devam et devam et devam et devam et devam et devam et yanlış faydalı yük, İha’nın uçuş prensibini doğrudan oluşturan bir unsur değildir; ancak İha’nın toplam kalkış ağırlığını, uçuş süresini ve görev kabiliyetini etkileyebilir. devam et devam et devam et devam et devam et devam et  hava aracının kullanım amacına göre sonradan eklenen kamera, sensör, kargo veya benzeri görev ekipmanıdır. hava aracının kullanım amacına göre sonradan eklenen kamera, sensör, kargo veya benzeri görev ekipmanıdır. hava aracının kullanım amacına göre sonradan eklenen kamera, sensör, kargo veya benzeri görev ekipmanıdır. hava aracının kullanım amacına göre sonradan eklenen kamera, sensör, kargo veya benzeri görev ekipmanıdır. hava aracının kullanım amacına göre sonradan eklenen kamera, sensör, kargo veya benzeri görev ekipmanıdır. hava aracının kullanım amacına göre sonradan eklenen kamera, sensör, kargo veya benzeri görev ekipmanıdır. İha’nın yalnızca kalkış sırasında kullandığı geçici enerji kaynağıdır. İha’nın yalnızca kalkış sırasında kullandığı geçici enerji kaynağıdır. İha’nın yalnızca kalkış sırasında kullandığı geçici enerji kaynağıdır. İha’nın yalnızca kalkış sırasında kullandığı geçici enerji kaynağıdır. İha’nın yalnızca kalkış sırasında kullandığı geçici enerji kaynağıdır. İha’nın yalnızca kalkış sırasında kullandığı geçici enerji kaynağıdır. yer kontrol istasyonunda bulunan kumanda koludur. yer kontrol istasyonunda bulunan kumanda koludur. yer kontrol istasyonunda bulunan kumanda koludur. yer kontrol istasyonunda bulunan kumanda koludur. yer kontrol istasyonunda bulunan kumanda koludur. yer kontrol istasyonunda bulunan kumanda koludur. aşağıdakilerden hangisi İha sistemlerinde “faydalı yük” kavramını en doğru şekilde açıklar? İha’nın uçuş prensibini doğrudan oluşturan zorunlu aerodinamik yüzeydir. İha’nın uçuş prensibini doğrudan oluşturan zorunlu aerodinamik yüzeydir. İha’nın uçuş prensibini doğrudan oluşturan zorunlu aerodinamik yüzeydir. İha’nın uçuş prensibini doğrudan oluşturan zorunlu aerodinamik yüzeydir. İha’nın uçuş prensibini doğrudan oluşturan zorunlu aerodinamik yüzeydir. İha’nın uçuş prensibini doğrudan oluşturan zorunlu aerodinamik yüzeydir.</slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data />
+  <glossary_data />
+</bwFrame>
