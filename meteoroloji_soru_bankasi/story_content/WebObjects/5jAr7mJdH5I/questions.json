@@ -1,0 +1,332 @@
+[
+    {
+        "question":  "Meteoroloji biliminin temel inceleme alanı aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Hava araçlarının yapısal tasarımı",
+                        "Atmosfer ve atmosferde meydana gelen olaylar",
+                        "Yeryüzündeki kayaçların oluşumu",
+                        "Denizlerdeki su hareketleri"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Atmosferik basınç aşağıdakilerden hangisini ifade eder?",
+        "choices":  [
+                        "Bir gazın birim yüzeye uyguladığı kuvveti",
+                        "Atmosferdeki toplam nem miktarını",
+                        "Havanın yatay hareket hızını",
+                        "Bir cismin deniz seviyesine olan yatay uzaklığını"
+                    ],
+        "correct":  0,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "İrtifa kavramı aşağıdakilerden hangisiyle en doğru şekilde açıklanır?",
+        "choices":  [
+                        "Bir noktanın yer yüzeyine olan yatay uzaklığıdır.",
+                        "Bir hava aracının kalkıştan sonra aldığı toplam yoldur.",
+                        "Bir noktanın ortalama deniz seviyesinden olan düşey uzaklığıdır.",
+                        "Atmosferdeki basınç farkının ölçüsüdür."
+                    ],
+        "correct":  2,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Meteorolojik olayların büyük bölümünün gerçekleştiği atmosfer katmanı hangisidir?",
+        "choices":  [
+                        "Mezosfer",
+                        "Troposfer",
+                        "Termosfer",
+                        "İyonosfer"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Ozon tabakasının bulunduğu ve Güneş\u0027ten gelen morötesi ışınların önemli ölçüde filtrelendiği atmosfer katmanı hangisidir?",
+        "choices":  [
+                        "Stratosfer",
+                        "Troposfer",
+                        "Mezosfer",
+                        "Ekzosfer"
+                    ],
+        "correct":  0,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Meteorolojik uyduların temel işlevlerinden biri aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Havaalanlarının pist uzunluklarını ölçmek",
+                        "Bulut, sıcaklık, nem ve hava hareketlerine ilişkin veri toplamak",
+                        "Uçakların yakıt tüketimini hesaplamak",
+                        "Hava araçlarının bakım zamanlarını belirlemek"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Yağışın miktarını, türünü ve hareketini izlemek amacıyla öncelikle hangi sistemden yararlanılır?",
+        "choices":  [
+                        "Radar",
+                        "Barometre",
+                        "Pusula",
+                        "Altimetre"
+                    ],
+        "correct":  0,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Atmosferin üst katmanlarındaki sıcaklık, nem ve basınç değerlerinin ölçülmesinde aşağıdaki araçlardan hangisi kullanılır?",
+        "choices":  [
+                        "Deniz feneri",
+                        "Meteoroloji balonu",
+                        "Hava trafik radarı",
+                        "Pist görüş ölçer"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Numerik hava tahmin modellerinin temel işlevi aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Atmosferdeki değişimleri matematiksel denklemlerle simüle etmek",
+                        "Hava araçlarının rota izinlerini düzenlemek",
+                        "Yalnızca geçmiş hava olaylarını arşivlemek",
+                        "Havaalanlarının kapasitesini hesaplamak"
+                    ],
+        "correct":  0,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Hava tahmin süresi ile tahmin doğruluğu arasındaki genel ilişki aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Tahmin süresi uzadıkça doğruluk kesin olarak artar.",
+                        "Tahmin süresi kısaldıkça doğruluk genellikle artar.",
+                        "Tahmin süresinin doğruluk üzerinde etkisi yoktur.",
+                        "Mevsimlik tahminler günlük tahminlerden her zaman daha doğrudur."
+                    ],
+        "correct":  1,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Atmosferik görüş mesafesi aşağıdakilerden hangisini ifade eder?",
+        "choices":  [
+                        "Bir hava aracının ulaşabileceği en yüksek irtifayı",
+                        "Bir gözlemcinin atmosfer içinde nesneleri net olarak görebildiği uzaklığı",
+                        "İki havaalanı arasındaki uçuş mesafesini",
+                        "Bulutların yerden olan yüksekliğini"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Aşağıdakilerden hangisi atmosferik görüş mesafesini azaltan etkenlerden biri değildir?",
+        "choices":  [
+                        "Sis",
+                        "Duman",
+                        "Yoğun kar",
+                        "Açık ve kuru hava"
+                    ],
+        "correct":  3,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Bir meteoroloji raporunda görüş mesafesinin 2 kilometre olduğu belirtilmiştir. Bu bilgi ne anlama gelir?",
+        "choices":  [
+                        "Bulut tabanının 2 kilometre yükseklikte olduğunu",
+                        "Nesnelerin yaklaşık 2 kilometreye kadar net görülebildiğini",
+                        "Rüzgâr hızının saatte 2 kilometre olduğunu",
+                        "Yağışın 2 kilometrelik alanda etkili olduğunu"
+                    ],
+        "correct":  1,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Temas hâlindeki iki cisim arasında sıcak olandan soğuk olana doğru gerçekleşen ısı iletimi hangisidir?",
+        "choices":  [
+                        "Konveksiyon",
+                        "Radyasyon",
+                        "Kondüksiyon",
+                        "Yoğuşma"
+                    ],
+        "correct":  2,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Hareket eden bir hava kütlesinin ısı, nem ve partikülleri birlikte taşıması hangi süreçle açıklanır?",
+        "choices":  [
+                        "Konveksiyon",
+                        "Kondüksiyon",
+                        "Donma",
+                        "Buharlaşma"
+                    ],
+        "correct":  0,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Isı enerjisinin aracı bir maddeye ihtiyaç duymadan elektromanyetik dalgalar hâlinde yayılması aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Konveksiyon",
+                        "Kondüksiyon",
+                        "Radyasyon",
+                        "Süblimleşme"
+                    ],
+        "correct":  2,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Kümülonimbus bulutlarının gelişmesinde temel rol oynayan ısı taşınım süreci hangisidir?",
+        "choices":  [
+                        "Kondüksiyon",
+                        "Konveksiyon",
+                        "Yansıma",
+                        "Kırılma"
+                    ],
+        "correct":  1,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Rüzgârın genel hareket yönü aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Alçak basınç alanından yüksek basınç alanına",
+                        "Yüksek basınç alanından alçak basınç alanına",
+                        "Soğuk bölgeden sıcak bölgeye, basınçtan bağımsız olarak",
+                        "Yalnızca dikey yönde"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "İki bölge arasındaki basınç farkı arttığında rüzgâr hızının nasıl değişmesi beklenir?",
+        "choices":  [
+                        "Azalması",
+                        "Değişmemesi",
+                        "Artması",
+                        "Tamamen durması"
+                    ],
+        "correct":  2,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Türbülans aşağıdakilerden hangisiyle en doğru şekilde açıklanır?",
+        "choices":  [
+                        "Havanın yalnızca yatay ve düzenli hareketidir.",
+                        "Hava kütleleri arasında oluşan dikey veya karışık düzensiz hareketlerdir.",
+                        "Atmosfer basıncının sabit kalmasıdır.",
+                        "Bulutların yer yüzeyine temas etmesidir."
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Sis ile bulut arasındaki temel fark aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Sis yalnızca buz kristallerinden oluşur.",
+                        "Bulutlar yalnızca gece oluşur.",
+                        "Sis yer yüzeyinde veya yer yüzeyine çok yakın oluşur.",
+                        "Bulutlar görüş mesafesini hiçbir zaman etkilemez."
+                    ],
+        "correct":  2,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Kümülonimbus bulutlarının hava araçları açısından tehlikeli kabul edilmesinin temel nedeni aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Yalnızca yatay rüzgâr oluşturması",
+                        "Şiddetli türbülans, buzlanma, düşük görüş ve kuvvetli dikey akımlar içermesi",
+                        "Daima açık hava koşullarında oluşması",
+                        "Hava aracının yakıt tüketimini azaltması"
+                    ],
+        "correct":  1,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Soğuk havada bir dronun uçuş süresinin azalmasının en önemli nedeni aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Pervanelerin büyümesi",
+                        "Bataryanın daha hızlı enerji kaybetmesi",
+                        "Atmosfer basıncının tamamen ortadan kalkması",
+                        "Kameranın çözünürlüğünün artması"
+                    ],
+        "correct":  1,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Sıcak havada oluşan termal hava akımları bir dronu nasıl etkileyebilir?",
+        "choices":  [
+                        "Dronun beklenmedik şekilde yükselmesine veya yön değiştirmesine yol açabilir.",
+                        "Dronun bataryasını sürekli olarak şarj eder.",
+                        "Görüş mesafesini her durumda artırır.",
+                        "Rüzgârın tamamen durmasını sağlar."
+                    ],
+        "correct":  0,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Hava aracı üzerinde buzlanma hangi durum sonucunda meydana gelir?",
+        "choices":  [
+                        "Havadaki nemin soğuyarak hava aracı yüzeyinde katılaşmasıyla",
+                        "Hava aracının yüksek hızda ilerlemesiyle",
+                        "Atmosfer basıncının artmasıyla",
+                        "Havadaki tozun kanat üzerine yapışmasıyla"
+                    ],
+        "correct":  0,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Sunudaki bilgilere göre buzlanma oluşumu için en uygun sıcaklık aralığı hangisidir?",
+        "choices":  [
+                        "+20 °C ile +30 °C",
+                        "+10 °C ile +15 °C",
+                        "0 °C ile -4 °C",
+                        "-40 °C ile -60 °C"
+                    ],
+        "correct":  2,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Kanat yüzeyinde oluşan buzlanmanın aerodinamik etkisi aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Kaldırma kuvvetini artırır ve sürüklemeyi azaltır.",
+                        "Kanat profilini bozarak kaldırmayı azaltır ve sürüklemeyi artırır.",
+                        "Hava aracının ağırlığını azaltır.",
+                        "Yakıt tüketimini düşürür."
+                    ],
+        "correct":  1,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Atmosferik basıncın temel tanımı aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Birim yüzeye etki eden kuvvet",
+                        "Birim zamanda alınan yol",
+                        "Havadaki su buharı oranı",
+                        "İki nokta arasındaki sıcaklık farkı"
+                    ],
+        "correct":  0,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Yükseklik arttıkça atmosferik basınç genel olarak nasıl değişir?",
+        "choices":  [
+                        "Artar.",
+                        "Önce artar, sonra sabit kalır.",
+                        "Azalır.",
+                        "Değişmez."
+                    ],
+        "correct":  2,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Meteorolojide sivil havacılıkta yaygın olarak kullanılan atmosferik basınç birimi hangisidir?",
+        "choices":  [
+                        "Kilometre",
+                        "Hektopaskal",
+                        "Santigrat derece",
+                        "Knot"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    }
+]
