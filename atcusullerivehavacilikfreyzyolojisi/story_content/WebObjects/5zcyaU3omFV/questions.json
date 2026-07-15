@@ -1,0 +1,332 @@
+[
+    {
+        "question":  "Hava Trafik Kontrol Hizmetinin temel amacı aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Hava araçlarının bakım programlarını hazırlamak",
+                        "Hava araçlarının çarpışmasını önlemek ve düzenli trafik akışını sağlamak",
+                        "Yolcuların terminal işlemlerini yönetmek",
+                        "Hava yolu şirketlerinin bilet fiyatlarını belirlemek"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Hava trafik kontrol hizmeti veren uzmanlara verilen kısaltma aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "ATC",
+                        "IATA",
+                        "AIS",
+                        "AIP"
+                    ],
+        "correct":  0,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Havacılık freyzyolojisinin kullanılmasının temel nedeni aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Konuşmaları daha uzun ve ayrıntılı hâle getirmek",
+                        "Mesajların kısa, açık ve belirsizlikten uzak olmasını sağlamak",
+                        "Yalnızca yerel dillerin kullanılmasını sağlamak",
+                        "Pilotların telsiz kullanmasını sınırlandırmak"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Bir uçağın izleyeceği rota, zamanlama ve diğer operasyonel bilgileri içeren belge hangisidir?",
+        "choices":  [
+                        "Uçuş planı",
+                        "Bakım kartı",
+                        "Yolcu manifestosu",
+                        "Meteoroloji haritası"
+                    ],
+        "correct":  0,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Hava trafik kontrol sistemlerinde radarın temel işlevi aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Uçakların yakıt miktarını belirlemek",
+                        "Uçakların konumunu, hızını ve yönünü izlemek",
+                        "Yolcu sayısını hesaplamak",
+                        "Pist yüzeyinin sıcaklığını ölçmek"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Havacılık alfabesinin kullanılmasının temel amacı aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Telsiz mesajlarının açık ve doğru anlaşılmasını sağlamak",
+                        "Konuşma süresini mümkün olduğunca uzatmak",
+                        "Yalnızca askerî uçuşları tanımlamak",
+                        "Havaalanlarının isimlerini değiştirmek"
+                    ],
+        "correct":  0,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Havacılık alfabesi aşağıdaki adlardan hangisiyle de bilinir?",
+        "choices":  [
+                        "ICAO Fonetik Alfabesi",
+                        "Denizcilik İşaret Alfabesi",
+                        "Uluslararası Matematik Alfabesi",
+                        "Meteoroloji Kod Alfabesi"
+                    ],
+        "correct":  0,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Havacılık alfabesinin uluslararası düzeyde standartlaştırılmasının en önemli gerekçesi aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Farklı aksanlardan kaynaklanan yanlış anlamaları azaltmak",
+                        "Pilotların daha hızlı konuşmasını sağlamak",
+                        "Uçuş sürelerini kısaltmak",
+                        "Havaalanı sayısını azaltmak"
+                    ],
+        "correct":  0,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "TK 148 uçuş kodunun havacılık alfabesine göre doğru ifade edilişi hangisidir?",
+        "choices":  [
+                        "Tango – Kilo – Van – Fovır – Eyt",
+                        "Tango – Kilo – Van – Tri – Eyt",
+                        "Teksas – Kilo – Van – Fovır – Eyt",
+                        "Tango – Kilo – Ziro – Fovır – Eyt"
+                    ],
+        "correct":  0,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Havacılık telsiz konuşmalarında dört rakamının özel bir telaffuzla söylenmesinin nedeni aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "For sözcüğüyle karışmasını önlemek",
+                        "Rakamın daha uzun duyulmasını sağlamak",
+                        "Yalnızca askerî uçuşlarda kullanılması",
+                        "Rakamın radar ekranında farklı görünmesi"
+                    ],
+        "correct":  0,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "FL90 uçuş seviyesi havacılık alfabesine göre nasıl kodlanır?",
+        "choices":  [
+                        "Foxtrot – Lima – Naynır – Ziro",
+                        "Foxtrot – Lima – Van – Ziro",
+                        "Lima – Foxtrot – Naynır – Ziro",
+                        "Foxtrot – Naynır – Lima – Ziro"
+                    ],
+        "correct":  0,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Telsizle mesaj göndermeden önce yapılması gereken ilk işlem aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Frekansı dinleyerek başka bir konuşma olup olmadığını kontrol etmek",
+                        "Mikrofonu en yüksek ses seviyesine getirmek",
+                        "Mesajı birkaç kez tekrarlamak",
+                        "Doğrudan konuşmaya başlamak"
+                    ],
+        "correct":  0,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Aşağıdaki konuşma biçimlerinden hangisi standart haberleşme tekniğine uygundur?",
+        "choices":  [
+                        "Bağırarak ve hızlı konuşmak",
+                        "Kısık sesle ve kesintili konuşmak",
+                        "Normal ses tonuyla açık ve belirgin konuşmak",
+                        "Uzun cümlelerle ayrıntılı açıklamalar yapmak"
+                    ],
+        "correct":  2,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Telsiz konuşmasında mikrofonun ağza aşırı yakın tutulması hangi sonuca yol açabilir?",
+        "choices":  [
+                        "Mesajın anlaşılırlığının azalmasına",
+                        "Radar görüntüsünün bozulmasına",
+                        "Uçağın transponder kodunun değişmesine",
+                        "Frekansın otomatik kapanmasına"
+                    ],
+        "correct":  0,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Rakamların söylenmesinden önce ve sonra kısa bir ara verilmesinin amacı nedir?",
+        "choices":  [
+                        "Konuşmayı daha resmî hâle getirmek",
+                        "Rakamların daha doğru anlaşılmasını sağlamak",
+                        "Frekansı boş bırakmak",
+                        "Telsiz gücünü artırmak"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Gönderme butonunun doğru kullanımı aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Konuşmaya başladıktan sonra basmak",
+                        "Konuşmadan kısa süre önce basıp konuşma bittikten kısa süre sonra bırakmak",
+                        "Tüm uçuş boyunca basılı tutmak",
+                        "Her kelimeden sonra bırakıp yeniden basmak"
+                    ],
+        "correct":  1,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Havacılık haberleşmesinde kullanılan ifadelerin hangi özellikte olması gerekir?",
+        "choices":  [
+                        "Uzun, ayrıntılı ve teknik",
+                        "Açık, kısa ve kesin",
+                        "Günlük konuşma diline dayalı",
+                        "Saygı ifadeleri bakımından zengin"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Telsiz mikrofonunun gönderme sonrasında takılı kalması neden önemli bir tehlikedir?",
+        "choices":  [
+                        "Frekansın diğer kullanıcılar tarafından kullanılmasını engelleyebilir.",
+                        "Uçağın motor gücünü azaltabilir.",
+                        "Radar sistemini tamamen kapatabilir.",
+                        "Uçağın irtifasını otomatik olarak değiştirebilir."
+                    ],
+        "correct":  0,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Mesaj kategorileri içinde en yüksek önceliğe sahip olan hangisidir?",
+        "choices":  [
+                        "Meteoroloji",
+                        "Uçuş emniyeti",
+                        "Emercensi",
+                        "İstikamet tespiti"
+                    ],
+        "correct":  2,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Mode C ve Mode S transponderlerin diğer sistemlere iletebildiği ek bilgi aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Yolcu sayısı",
+                        "İrtifa bilgisi",
+                        "Yakıt miktarı",
+                        "Uçuş ekibinin adı"
+                    ],
+        "correct":  1,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "ATC tarafından Squawk 7421 talimatı verildiğinde pilot ne yapmalıdır?",
+        "choices":  [
+                        "Uçuş seviyesini 7421 feet olarak ayarlamalıdır.",
+                        "Transponder cihazına 7421 kodunu girmelidir.",
+                        "7421 numaralı piste yönelmelidir.",
+                        "Telsiz frekansını 74.21\u0027e ayarlamalıdır."
+                    ],
+        "correct":  1,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Transponder kodlarının her bir hanesinde hangi rakamlar kullanılabilir?",
+        "choices":  [
+                        "0 ile 5 arasındaki rakamlar",
+                        "0 ile 7 arasındaki rakamlar",
+                        "1 ile 8 arasındaki rakamlar",
+                        "0 ile 9 arasındaki rakamlar"
+                    ],
+        "correct":  1,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "7600 transponder kodu hangi durumu ifade eder?",
+        "choices":  [
+                        "Genel acil durum",
+                        "Telsiz arızası",
+                        "Uçak kaçırma",
+                        "Yakıt yetersizliği"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "7500 transponder kodu hangi durumu ifade eder?",
+        "choices":  [
+                        "Uçak kaçırma veya kanunsuz girişim",
+                        "Telsiz arızası",
+                        "Genel acil durum",
+                        "Normal uçuş"
+                    ],
+        "correct":  0,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Kokpit ekibine uçuş izni, ilk tırmanış irtifası ve kalkış sonrası rota bilgilerini veren ATC birimi hangisidir?",
+        "choices":  [
+                        "Ground",
+                        "Delivery",
+                        "Tower",
+                        "Center"
+                    ],
+        "correct":  1,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Taksi ve pushback izinlerinden sorumlu ATC birimi hangisidir?",
+        "choices":  [
+                        "Ground",
+                        "Approach",
+                        "Center",
+                        "Delivery"
+                    ],
+        "correct":  0,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Bir uçağın piste girmesi, kalkış yapması veya iniş gerçekleştirmesi için izin veren ATC birimi hangisidir?",
+        "choices":  [
+                        "Delivery",
+                        "Ground",
+                        "Tower",
+                        "Center"
+                    ],
+        "correct":  2,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "İniş yapan uçakları belirli bir düzen içinde meydana yaklaştıran birim hangisidir?",
+        "choices":  [
+                        "Approach",
+                        "Ground",
+                        "Delivery",
+                        "Apron yönetimi"
+                    ],
+        "correct":  0,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Uçağın bölgesel hava sahasındaki seyir safhasını yöneten ATC birimi hangisidir?",
+        "choices":  [
+                        "Tower",
+                        "Center",
+                        "Delivery",
+                        "Ground"
+                    ],
+        "correct":  1,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Aşağıdakilerden hangisi Mayday çağrısını gerektiren bir distress durumuna örnektir?",
+        "choices":  [
+                        "Pilotun konumundan kısa süreli emin olamaması",
+                        "Uçuşu etkilemeyen küçük bir teknik sorun",
+                        "Motorun durması ve dışarıdan acil yardıma ihtiyaç duyulması",
+                        "Hava durumunun hafif şekilde değişmesi"
+                    ],
+        "correct":  2,
+        "difficulty":  "orta"
+    }
+]
