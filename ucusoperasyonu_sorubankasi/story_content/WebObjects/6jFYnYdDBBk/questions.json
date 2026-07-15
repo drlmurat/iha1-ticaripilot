@@ -1,0 +1,332 @@
+[
+    {
+        "question":  "Dünya\u0027nın kutuplardan basık, Ekvator\u0027dan şişkin olan kendine özgü şekline ne ad verilir?",
+        "choices":  [
+                        "Elips",
+                        "Geoit",
+                        "Daire",
+                        "Silindir"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Dünya üzerindeki bir noktanın yerini kesin olarak belirlemek için kullanılan temel coğrafi bilgiler hangileridir?",
+        "choices":  [
+                        "Sıcaklık ve basınç",
+                        "Hız ve zaman",
+                        "Enlem ve boylam",
+                        "Yükseklik ve sıcaklık"
+                    ],
+        "correct":  2,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Enlem kavramı aşağıdakilerden hangisini ifade eder?",
+        "choices":  [
+                        "Bir noktanın Greenwich Meridyeni\u0027ne olan açısal uzaklığını",
+                        "Bir noktanın Ekvator\u0027a olan açısal uzaklığını",
+                        "İki nokta arasındaki doğrusal mesafeyi",
+                        "Bir noktanın deniz seviyesinden yüksekliğini"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Boylamların başlangıç noktası olarak kabul edilen meridyen hangisidir?",
+        "choices":  [
+                        "Ekvator",
+                        "Yengeç Dönencesi",
+                        "Greenwich Meridyeni",
+                        "Oğlak Dönencesi"
+                    ],
+        "correct":  2,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "İki meridyen arasında kaç dakikalık yerel saat farkı bulunur?",
+        "choices":  [
+                        "2 dakika",
+                        "4 dakika",
+                        "15 dakika",
+                        "60 dakika"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Dünya üzerindeki iki nokta arasındaki en kısa mesafeyi gösteren büyük daire parçasına ne ad verilir?",
+        "choices":  [
+                        "Paralel yayı",
+                        "Meridyen yayı",
+                        "Büyük daire yayı",
+                        "Eksen doğrusu"
+                    ],
+        "correct":  2,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Dünya\u0027nın eksen eğikliğinin temel sonuçlarından biri aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Meridyenlerin uzunluklarının değişmesi",
+                        "Mevsimlerin oluşması",
+                        "Dünya\u0027nın dönüş hızının durması",
+                        "Ekvator\u0027un yer değiştirmesi"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Seyrüsefer hesaplarında pusula ibresinin gösterdiği yön hangisidir?",
+        "choices":  [
+                        "Gerçek kuzey",
+                        "Manyetik kuzey",
+                        "Coğrafi güney",
+                        "Ekvator yönü"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Hava seyrüseferinin temel amacı aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Hava aracının bakım zamanını belirlemek",
+                        "Hava aracının güvenli rota üzerinde konum ve istikametini belirlemek",
+                        "Yolcu ve yük miktarını hesaplamak",
+                        "Havaalanı terminal kapasitesini ölçmek"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Aşağıdakilerden hangisi hava seyrüseferinde kullanılan asli referanslardan biri değildir?",
+        "choices":  [
+                        "Pozisyon",
+                        "İstikamet",
+                        "Mesafe",
+                        "Motor sıcaklığı"
+                    ],
+        "correct":  3,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Harita üzerindeki arazi şekilleri ve belirgin referans noktaları izlenerek yapılan seyrüsefer yöntemi hangisidir?",
+        "choices":  [
+                        "Harita okuma yöntemi",
+                        "Radyo seyrüseferi",
+                        "Uydu seyrüseferi",
+                        "Barometrik seyrüsefer"
+                    ],
+        "correct":  0,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Güneş, Ay, gezegenler ve yıldızlardan yararlanılarak yapılan seyrüsefer yöntemi hangisidir?",
+        "choices":  [
+                        "Dead reckoning",
+                        "Radyo seyrüseferi",
+                        "Celestial navigasyon",
+                        "Harita okuma"
+                    ],
+        "correct":  2,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Herhangi bir seyrüsefer yardımcı cihazı kullanılmadan istikamet, sürat, mesafe ve zaman bilgileriyle konum hesaplanmasına ne ad verilir?",
+        "choices":  [
+                        "Kontrollü seyrüsefer",
+                        "Dead reckoning",
+                        "Uydu navigasyonu",
+                        "Radyo yön bulma"
+                    ],
+        "correct":  1,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "GNSS sistemlerinin temel işlevi aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Hava aracının yakıt tüketimini azaltmak",
+                        "Konum ve zaman bilgisi sağlamak",
+                        "Hava sahasını fiziksel olarak sınırlandırmak",
+                        "Meteorolojik olayları engellemek"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Bir GPS alıcısının üç boyutlu konumunu, yani enlem, boylam ve yüksekliğini belirleyebilmesi için en az kaç uydudan sinyal alması gerekir?",
+        "choices":  [
+                        "2",
+                        "3",
+                        "4",
+                        "6"
+                    ],
+        "correct":  2,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "GPS sistemi hangi ülke tarafından geliştirilmiş ve yönetilmektedir?",
+        "choices":  [
+                        "Rusya",
+                        "Çin",
+                        "Amerika Birleşik Devletleri",
+                        "Japonya"
+                    ],
+        "correct":  2,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Rusya tarafından geliştirilen küresel uydu konumlandırma sistemi hangisidir?",
+        "choices":  [
+                        "Galileo",
+                        "GLONASS",
+                        "BeiDou",
+                        "QZSS"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Galileo uydu navigasyon sistemi hangi yapı tarafından geliştirilmiştir?",
+        "choices":  [
+                        "Avrupa Birliği",
+                        "NATO",
+                        "Çin",
+                        "Hindistan"
+                    ],
+        "correct":  0,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Aşağıdakilerden hangisi bölgesel konum belirleme sistemlerinden biridir?",
+        "choices":  [
+                        "GPS",
+                        "GLONASS",
+                        "QZSS",
+                        "Galileo"
+                    ],
+        "correct":  2,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Harita üzerinde kullanılan sembol, renk ve işaretlerin anlamlarını açıklayan bölüme ne ad verilir?",
+        "choices":  [
+                        "Ölçek",
+                        "Lejant",
+                        "Projeksiyon",
+                        "Koordinat"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Bir haritanın ölçeği aşağıdakilerden hangisini gösterir?",
+        "choices":  [
+                        "Haritanın hazırlandığı tarihi",
+                        "Gerçek mesafelerin haritada ne kadar küçültüldüğünü",
+                        "Haritadaki renklerin anlamını",
+                        "Kuzey yönünün konumunu"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Hava meydan haritalarında aşağıdakilerden hangisinin gösterilmesi beklenir?",
+        "choices":  [
+                        "Hava yolları ve seyrüsefer yardımcıları",
+                        "Yolcuların kişisel bilgileri",
+                        "Hava yolu şirketlerinin gelirleri",
+                        "Uçakların bakım maliyetleri"
+                    ],
+        "correct":  0,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Bir devletin kara ülkesi ve karasuları üzerindeki hava bölgesine ne ad verilir?",
+        "choices":  [
+                        "Uluslararası hava sahası",
+                        "Egemen hava sahası",
+                        "Kontrolsüz hava sahası",
+                        "Geçici hava sahası"
+                    ],
+        "correct":  1,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Uluslararası hava sahasının temel özelliği aşağıdakilerden hangisidir?",
+        "choices":  [
+                        "Tek bir devletin egemenliğinde olması",
+                        "Yalnızca askerî uçuşlara açık olması",
+                        "Herhangi bir devletin egemenliği altında bulunmaması",
+                        "Hava trafik kurallarının uygulanmaması"
+                    ],
+        "correct":  2,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "ICAO sınıflandırmasına göre hangi hava sahası sınıfları kontrollü hava sahasıdır?",
+        "choices":  [
+                        "A, B, C, D ve E",
+                        "B, C, D, E ve F",
+                        "C, D, E, F ve G",
+                        "Yalnızca A ve B"
+                    ],
+        "correct":  0,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "ICAO sınıflandırmasına göre kontrolsüz hava sahaları hangileridir?",
+        "choices":  [
+                        "A ve B",
+                        "C ve D",
+                        "E ve F",
+                        "F ve G"
+                    ],
+        "correct":  3,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Uçuşların tamamen yasaklandığı ve genellikle stratejik tesislerin çevresinde oluşturulan hava sahası hangisidir?",
+        "choices":  [
+                        "Tehlikeli saha",
+                        "Tahditli saha",
+                        "Yasaklı saha",
+                        "Kontrollü saha"
+                    ],
+        "correct":  2,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Uçuşların belirli koşullara ve önceden izin alınmasına bağlı olduğu hava sahası hangisidir?",
+        "choices":  [
+                        "Tahditli saha",
+                        "Uluslararası hava sahası",
+                        "Kontrolsüz hava sahası",
+                        "Serbest uçuş sahası"
+                    ],
+        "correct":  0,
+        "difficulty":  "kolay"
+    },
+    {
+        "question":  "Bir havalimanındaki en yakın pistin kenarından 9 kilometreden daha yakın alanda İHA uçuşu yapılmak isteniyorsa aşağıdakilerden hangisi gereklidir?",
+        "choices":  [
+                        "Herhangi bir işlem yapılmadan uçuşa başlanması",
+                        "Yalnızca İHA sahibinden izin alınması",
+                        "Risk analizi yapılması ve Genel Müdürlükten izin alınması",
+                        "Sadece hava durumunun kontrol edilmesi"
+                    ],
+        "correct":  2,
+        "difficulty":  "orta"
+    },
+    {
+        "question":  "Emniyetli bir İHA uçuşu öncesinde aşağıdakilerden hangisinin yapılması en uygundur?",
+        "choices":  [
+                        "Batarya, pervane, GPS ve diğer kritik sistemlerin kontrol edilmesi",
+                        "Yazılım güncellemelerinin dikkate alınmaması",
+                        "Görüş mesafesi düşük olsa da uçuşun sürdürülmesi",
+                        "Acil durum planı hazırlanmadan göreve başlanması"
+                    ],
+        "correct":  0,
+        "difficulty":  "kolay"
+    }
+]
